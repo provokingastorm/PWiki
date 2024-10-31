@@ -1,3 +1,5 @@
+# Mod Tips
+## Mod Upgrade Rules
  - Don't upgrade a green mod that has less than 7 speed.
  - Don't upgrade a blue mod that has less than 10 speed from 2 or 3 hits.
  - Don't upgrade a purple mod unless it has 10 speed from 2 hits (no more).
