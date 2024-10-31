@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "c69b01f0cc935abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddaeecd72380bfd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04410453276bbdff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWGOH/Mod Tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mod Tips"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6cb062cb824675b",
+    "type": "split",
+    "children": [
+      {
+        "id": "323269d6c99da717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d990e70d2539708",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1a01cda0046507e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af8f183247e8454f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c20d888dab9cd3e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cdeca06da567ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0824c81e509e0229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SWGOH/Mod Tips.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mod Tips"
+            }
+          },
+          {
+            "id": "870ef6114d334359",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SWGOH/Mod Tips.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mod Tips"
+            }
+          },
+          {
+            "id": "8e1b1e9a21923e0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ca8d900131a1063",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SWGOH/Mod Tips.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mod Tips"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04410453276bbdff",
+  "lastOpenFiles": [
+    "Home Improvement/Plumbing Work.md",
+    "Home Improvement",
+    "Cronus/Cronus Script Development Notes.md",
+    "Cronus/AutoGH Setup.md",
+    "Cronus",
+    "Cooking",
+    "Achievements/Minecraft VR.md",
+    "Achievements/Disney Infinity.md",
+    "Achievements",
+    "SWGOH/Mod Tips.md",
+    "SWGOH"
+  ]
+}
