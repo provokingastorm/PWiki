@@ -1,3 +1,42 @@
+
+
+## Minecraft Kindle Fire
+
+### Installation Instructions
+These are the instructions to install a new SKU of the Minecraft app for Kindle Fire, assuming you've already purchased the Kindle Fire edition through Amazon.
+
+1. Download and install Bluestacks Android emulator.
+https://www.bluestacks.com/
+
+2. Download and install the Amazon Android app.
+https://www.amazon.com/gp/mas/get/android/ref=get_appstore?ie=UTF8&ref_=mas_rw_ldg
+
+3. Download and install the Minecraft Kindle Fire app.
+(Need to find this online; Check TA Forums for a Dropbox or Google Drive link)
+
+4. Run Minecraft Kindle Fire Edition.
+
+5. Sign into your Microsoft account in the main menu.
+
+TA Reference Thread: https://www.trueachievements.com/forum/viewthread.aspx?tid=808919&page=3
+
+### Troubleshooting: Issues logging into Microsoft Account
+To enable this option (for Android, iOS, and Kindle Fire):  
+1) load up Minecraft  
+2) from the main menu, tap Settings  
+3) tap Account  
+4) scroll down to the bottom  
+5) enable the following:  
+- Use Remote Connect for Microsoft Account Sign In (requires restart)  
+6) close Minecraft  
+7) load up Minecraft again  
+8) tap Sign In  
+9) use the web browser on your other device (e.g. Microsoft Edge on Xbox One) to navigate to [aka.ms/remoteconnect](https://aka.ms/remoteconnect)  
+10) enter the code shown on your Android, iOS, and Kindle Fire device  
+11) enter the email address associated with the Microsoft/Xbox account  
+12) finalize the sign in by entering the password or other multi-factor authentication (e.g. 2FA code)  
+13) wait a minute or two for your Android, iOS, and Kindle Fire device to update the sign in
+## Minecraft VR
 Link: https://www.trueachievements.com/forum/viewthread.aspx?tid=1344545
 
 - **Edit: If you can't get your controller to work, check this extra note from lightsup55.**  
