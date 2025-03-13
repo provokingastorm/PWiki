@@ -10,14 +10,13 @@
 
 [Dunkmaster!](https://www.trueachievements.com/a209356/dunkmaster-achievement#41123) - As Thor, land on three or more enemy gods at once with your Ultimate, Anvil of Dawn.
 
-[The Warriors Will](https://www.trueachievements.com/a209351/the-warriors-will-achievement#41123) - As Guan Yu heal 3 or more of your teammates at once while your passive is charged.
-
 [CHARGE!](https://www.trueachievements.com/a209350/charge-achievement#41123) - "Unlock the SMITE Award "Charge"! - NOTES: Play as Guan Yu
 
 [Solar Blessing](https://www.trueachievements.com/a209354/solar-blessing-achievement#41123) - As Ra, end a game with over 30,000 player healing.
 
 [You Go Boom!](https://www.trueachievements.com/a209358/you-go-boom-achievement#41123) - As Ymir, kill three or more enemy gods using your Ultimate.
 
-[Searing Steal](https://www.trueachievements.com/a209355/searing-steal-achievement#41123) - As Ra, steal the fire giant away from your opponents using Searing Pain.
+[Rally Here!](https://www.trueachievements.com/a210015/rally-here-achievement#41123) - As Bellona kill 10 enemies with the damage from Eagle's Rally.
 
+[Wrapped Up](https://www.trueachievements.com/a210013/wrapped-up-achievement#41123) - As Arachne successfully stun 3 or more enemy gods in a match with Cocoon.
 ## Boosting Method
