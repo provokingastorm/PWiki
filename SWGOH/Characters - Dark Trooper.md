@@ -1,8 +1,8 @@
-**SWGOH.gg**: https://swgoh.gg/units/bistan/
+**SWGOH.gg**: https://swgoh.gg/units/dark-trooper/
 
 ## Common Squads
 
-[[Squad Notes - Admiral Raddus]]
+[[Squad Notes - General Veers Imperial Troopers]]
 
 ## Gameplay Notes
 
@@ -18,4 +18,4 @@
 
 ## Recommended Omicrons
 
-1. N/A
+1. 

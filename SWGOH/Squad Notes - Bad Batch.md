@@ -1,5 +1,5 @@
 
-## Squad 1 - OG Bad Batch
+## Squad 1 - Standard Bad Batch 5v5 Squad
 [[Character - Hunter|Hunter]] (Lead)
 [[Character - Tech|Tech]]
 [[SWGOH/Character - Echo|Echo]]
@@ -28,7 +28,7 @@
 "How to Zeta, Mod, & Use Bad Batch in SWGOH" by Calvin Awesome
 https://www.youtube.com/watch?v=_xsAuS9eL7A&ab_channel=CalvinAwesome
 
-## Squad 2 - 3v3 Grand Arena
+## Squad 2 - Standard Bad Batch 3v3 Squad
 [[Character - Hunter|Hunter]] (Lead)
 [[Character - Tech|Tech]]
 [[SWGOH/Character - Echo|Echo]]

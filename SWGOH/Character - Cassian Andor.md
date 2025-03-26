@@ -10,7 +10,7 @@
 
 ## Mod Notes
 
- - 
+ - Load up on potency because he low-ish base potency and his debuffs can be resisted.
 
 ## Recommended Zetas
 
@@ -18,4 +18,4 @@
 
 ## Recommended Omicrons
 
-1. 
+1. None

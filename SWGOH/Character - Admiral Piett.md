@@ -1,8 +1,8 @@
-**SWGOH.gg**: https://swgoh.gg/units/admiral-raddus/
+**SWGOH.gg**: https://swgoh.gg/units/admiral-piett/
 
 ## Common Squads
 
-[[Squad Notes - Admiral Raddus]]
+[[Squad Notes - General Veers Imperial Troopers]]
 
 ## Gameplay Notes
 

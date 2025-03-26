@@ -1,12 +1,12 @@
-**SWGOH.gg**: https://swgoh.gg/units/bistan/
+**SWGOH.gg**: https://swgoh.gg/units/stormtrooper/
 
 ## Common Squads
 
-[[Squad Notes - Admiral Raddus]]
+[[Squad Notes - Iden Versio Troopers]]
 
 ## Gameplay Notes
 
- - 
+ -  
 
 ## Mod Notes
 

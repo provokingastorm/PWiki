@@ -1,8 +1,8 @@
-**SWGOH.gg**: https://swgoh.gg/units/bistan/
+**SWGOH.gg**: https://swgoh.gg/units/fifth-brother/
 
 ## Common Squads
 
-[[Squad Notes - Admiral Raddus]]
+[[Squad Notes - Grand Inquisitor Inquisitors]]
 
 ## Gameplay Notes
 
@@ -18,4 +18,4 @@
 
 ## Recommended Omicrons
 
-1. N/A
+1. 
