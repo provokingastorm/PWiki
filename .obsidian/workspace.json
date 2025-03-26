@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3bd3b3cddc919ed",
+            "id": "8945371bfd96bba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xbox/Jurassic Park The Game Achievements.md",
+                "file": "SWGOH/Character - Wrecker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jurassic Park The Game Achievements"
+              "title": "Character - Wrecker"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Echo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,36 +163,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3bd3b3cddc919ed",
+  "active": "8945371bfd96bba7",
   "lastOpenFiles": [
-    "Xbox/Jurassic Park The Game Achievements.md",
-    "Xbox/Spyro Reignited Trilogy Achievements.md",
-    "Recipes/Arugula Salad with Lemon Vinaigrette.md",
-    "Xbox/Minecraft Achievements.md",
-    "Recipes/Champagne Vinaigrette Dressing.md",
-    "Xbox/Doom Achievement.md",
-    "Recipes/Honey Sriracha Lime Dressing.md",
-    "Recipes/Lemon Vinaigrette.md",
+    "SWGOH/Character - Tech.md",
+    "SWGOH/Squad Notes - Bad Batch.md",
+    "Squad Notes - Tusken Raiders.md",
+    "Character - URoRRuRRR.md",
+    "Character - Tusken Raider.md",
+    "Character - Tusken Warrior.md",
+    "Character - Tusken Shaman.md",
+    "SWGOH/Character - T3-M4.md",
+    "SWGOH/Squad Notes - Admiral Raddus.md",
+    "Character - Tusken Chieftan.md",
+    "SWGOH/Squad Notes - Admiral Trench.md",
+    "Character - Admiral Raddus.md",
+    "SWGOH/Character - Cassian Andor.md",
+    "SWGOH/Character - Jyn Erso.md",
+    "SWGOH/Character - Bistan.md",
+    "SWGOH/Character - K-2SO.md",
+    "SWGOH/Squad Notes - 50R-T.md",
+    "SWGOH/Character - BB8.md",
+    "SWGOH/Character - Lobot.md",
+    "SWGOH/Character - 50R-T.md",
+    "SWGOH/Character - HK-47.md",
+    "SWGOH/Character - Jango Fett.md",
+    "Character - BB8 - BB8.md",
+    "SWGOH/Squad Notes - Qui-Gon Jinn.md",
+    "SWGOH/Character - Admiral Trench.md",
+    "SWGOH/Character - Nute Gunray.md",
     "Recipes",
-    "Xbox/SMITE Achievements.md",
-    "Xbox/Turnip Boy Robs A Bank Achievements.md",
-    "SWGOH/Mod Tips.md",
-    "Health/Dry Mouth Aids.md",
     "Health",
-    "Cleaning/Cleaning Oven.md",
-    "Cleaning/Cleaning Recipes.md",
-    "Cleaning/Cleaning Reusable Water Bottles.md",
-    "Cleaning/Cleaning Toilets.md",
-    "Cleaning/Cleaning Washing Machines.md",
-    "Cleaning/Dusting Tips.md",
-    "Cooking/Cooking Temperatures.md",
-    "Cooking/Cooking Equipment.md",
-    "House TODO.md",
-    "Xbox/Gears 5 Achievements.md",
-    "Xbox/Disney Infinity.md",
-    "Cleaning/Stain Guide.md",
-    "Gaming/Minecraft Kindle Fire.md",
-    "Xbox/Xbox Troubleshooting.md",
     "Cleaning",
     "Home Improvement",
     "Cronus",
