@@ -2,7 +2,7 @@
 ## Squad 1 - Standard
 [[Character - Iden Versio|Iden Versio]] (Lead)
 [[Character - Death Trooper|Death Trooper]]
-[[Character - Shore Trooper|Shore Trooper]]
+[[Character - Shoretrooper|Shore Trooper]]
 [[Character - Stormtrooper|Stormtrooper]]
 [[Character - Magmatrooper|Magmatrooper]]
 

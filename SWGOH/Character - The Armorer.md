@@ -1,8 +1,7 @@
-**SWGOH.gg**: https://swgoh.gg/units/geonosian-brood-alpha/
+**SWGOH.gg**: https://swgoh.gg/units/the-armorer/
 
 ## Common Squads
 
-[[Squad Notes - Admiral Trench|Admiral Trench Squads]]
 [[Squad Notes - Sith Eternal Emperor#Squad 4 - JMK Killer|JMK Counter]]
 
 ## Gameplay Notes

@@ -19,7 +19,7 @@
  - [[Squad Notes - Tusken Raiders|Tusken Raiders]]
 
 **Hard Counters**
- - [[Squad Notes - GAS#Squad 1 - 501st GAS Lead|501st GAS Squad]]
+ - [[Squad Notes - General Skywalker#Squad 1 - 501st GAS Lead|501st GAS Squad]]
 
 **Notes**
  - Turn Order: (1) Echo, (2) Tech, (3) Hunter, (4) Wrecker, and (5) Omega

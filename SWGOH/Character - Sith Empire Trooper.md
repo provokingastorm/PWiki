@@ -1,12 +1,12 @@
-**SWGOH.gg**: https://swgoh.gg/units/shoretrooper/
+**SWGOH.gg**: https://swgoh.gg/units/sith-empire-trooper/
 
 ## Common Squads
 
-[[Squad Notes - Iden Versio Troopers]]
+[[Squad Notes - Sith Eternal Emperor]]
 
 ## Gameplay Notes
 
- -  
+ - 
 
 ## Mod Notes
 
@@ -18,4 +18,4 @@
 
 ## Recommended Omicrons
 
-1. N/A
+1. 

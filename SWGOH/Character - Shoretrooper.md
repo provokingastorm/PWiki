@@ -1,13 +1,13 @@
-**SWGOH.gg**: https://swgoh.gg/units/geonosian-brood-alpha/
+**SWGOH.gg**: https://swgoh.gg/units/shoretrooper/
 
 ## Common Squads
 
-[[Squad Notes - Admiral Trench|Admiral Trench Squads]]
+[[Squad Notes - Iden Versio Troopers|Iden Versio Trooper Squads]]
 [[Squad Notes - Sith Eternal Emperor#Squad 4 - JMK Killer|JMK Counter]]
 
 ## Gameplay Notes
 
- - 
+ -  
 
 ## Mod Notes
 
@@ -19,4 +19,4 @@
 
 ## Recommended Omicrons
 
-1. 
+1. N/A

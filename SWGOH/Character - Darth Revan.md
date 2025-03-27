@@ -1,12 +1,12 @@
-**SWGOH.gg**: https://swgoh.gg/units/ct-21-0408-echo/
+**SWGOH.gg**: https://swgoh.gg/units/darth-revan/
 
 ## Common Squads
 
-[[Squad Notes - General Skywalker]]
+[[Squad Notes - Darth Malgus|Darth Malgus]]
 
 ## Gameplay Notes
 
- -  
+ - 
 
 ## Mod Notes
 
@@ -15,6 +15,7 @@
 ## Recommended Zetas
 
 1. 
+
 ## Recommended Omicrons
 
-1. N/A
+1. 

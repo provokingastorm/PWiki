@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - GAS]]
+[[Squad Notes - General Skywalker]]
 
 ## Gameplay Notes
 
