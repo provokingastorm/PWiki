@@ -1,0 +1,20 @@
+{
+  "seekSeconds": 10,
+  "verticalPlayerHeight": 40,
+  "horizontalPlayerWidth": 40,
+  "defaultSplitMode": "Vertical",
+  "pauseOnTimestampInsert": false,
+  "displayProgressBar": true,
+  "displayTimestamp": true,
+  "timestampOffsetSeconds": 6,
+  "backgroundColor": "#000000",
+  "progressBarColor": "#FF0000",
+  "timestampTemplate": "[{ts}]({link})\n",
+  "mediaData": {
+    "pCzlB_w20T4": {
+      "mediaLink": "https://www.youtube.com/watch?v=pCzlB_w20T4&ab_channel=JDotter707&t=6",
+      "lastUpdated": "2025-03-31T18:09:44.396Z",
+      "lastTimestampSeconds": 9.086741
+    }
+  }
+}
