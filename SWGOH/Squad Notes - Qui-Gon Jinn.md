@@ -10,7 +10,7 @@
  - 
 
 **Hard Counters**
- - 
+ - [[Squad Notes - Grand Inquisitor Inquisitors|Grand Inquisitor Inquisitors]]
 
 **Notes**
  - 

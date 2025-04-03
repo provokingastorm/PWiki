@@ -1,8 +1,8 @@
-**SWGOH.gg**: https://swgoh.gg/units/jedi-knight-revan/
+**SWGOH.gg**: https://swgoh.gg/units/kelleran-beq/
 
 ## Common Squads
 
-[[Squad Notes - Jedi Master Luke Skywalker|JML Teams]]
+[[Squad Notes - Kelleran Beq|Kelleran Beq-led Jedi]]
 
 ## Gameplay Notes
 

@@ -2,7 +2,7 @@
 ## Squad 1 - Standard
 [[Character - General Veers|General Veers]] (Lead)
 [[Character - Admiral Piett|Admiral Piett]]
-[[Characters - Dark Trooper|Dark Trooper]]
+[[Character - Dark Trooper|Dark Trooper]]
 [[Character - Colonel Starck|Colonel Starck]]
 [[Character - Range Trooper|Range Trooper]]
 

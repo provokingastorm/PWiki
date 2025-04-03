@@ -10,12 +10,13 @@
 
 ## Mod Notes
 
- - 
+ - Defense or health sets. Typical tank build. 
+ - Protection or health sub-sets. Although her kit favors health, her team faces a lot of counters that deal damage off #MaxHealth.
 
 ## Recommended Zetas
 
-1. 
+1. Ground Pound
 
 ## Recommended Omicrons
 
-1. 
+1. N/A
