@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c0abdb69fd869ee",
+            "id": "43f9265f7cbcac7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
+                "file": "Xbox/GTA V PC Achievements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Squad Notes - Grand Inquisitor Inquisitors"
-            }
-          },
-          {
-            "id": "cff4c15d1528d19f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWGOH/Character - Jedi Knight Luke Skywalker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character - Jedi Knight Luke Skywalker"
-            }
-          },
-          {
-            "id": "4a425a4c534410c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Squad Notes - Grand Inquisitor Inquisitors"
+              "title": "GTA V PC Achievements"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,16 +163,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d990e70d2539708",
+  "active": "43f9265f7cbcac7d",
   "lastOpenFiles": [
-    "SWGOH/Squad Notes - Jedi Knight Luke Skywalker.md",
+    "SWGOH/ROTE Notes.md",
+    "Xbox/GTA V PC Achievements.md",
+    "Xbox/Indiana Jones and the Great Circle Achievements.md",
+    "Xbox/Borderland 3 Achievements.md",
+    "Xbox/Gears Tactics Achievements.md",
     "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
+    "SWGOH/Character - Jedi Knight Luke Skywalker.md",
+    "SWGOH/Squad Notes - Jedi Knight Luke Skywalker.md",
     "SWGOH/Squad Notes - Jedi Knight Revan.md",
     "SWGOH/Character - Bastila Shan.md",
     "SWGOH/Character - Jolee Bindo.md",
     "SWGOH/Character - Grand Master Yoda.md",
     "SWGOH/Character - Jedi Knight Revan.md",
-    "SWGOH/Character - Jedi Knight Luke Skywalker.md",
     "SWGOH/Squad Notes - Shaak Ti.md",
     "SWGOH/Character - Shaak Ti.md",
     "SWGOH/Character - CT-5555 Fives.md",
@@ -215,11 +191,6 @@
     "SWGOH/Character - Jedi Knight Anakin.md",
     "SWGOH/Character - Grand Inquisitor.md",
     "SWGOH/Character - Ninth Sister.md",
-    "SWGOH/Character - Fifth Brother.md",
-    "SWGOH/Character Notes - Seventh Sister.md",
-    "SWGOH/Character - Eighth Brother.md",
-    "SWGOH/Character - Jedi Knight Cal Kestis.md",
-    "SWGOH/Character - Hermit Yoda.md",
     "Untitled",
     "Recipes",
     "Health",
