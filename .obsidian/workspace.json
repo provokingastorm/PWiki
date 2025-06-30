@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "97bb710d3a11999d",
+        "id": "904260b5c5c49b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "43f9265f7cbcac7d",
+            "id": "be2e11111c68d63f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xbox/GTA V PC Achievements.md",
+                "file": "SWGOH/Mod Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GTA V PC Achievements"
+              "title": "Mod Notes"
+            }
+          },
+          {
+            "id": "893bb73a4acf5e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWGOH/Character - CX-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character - CX-2"
+            }
+          },
+          {
+            "id": "1561c1201621524e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWGOH/Squad Notes - Lord Vader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Squad Notes - Lord Vader"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,34 +192,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43f9265f7cbcac7d",
+  "active": "1d990e70d2539708",
   "lastOpenFiles": [
-    "SWGOH/ROTE Notes.md",
+    "SWGOH/Character - CC-1119 Appo.md",
+    "SWGOH/Squad Notes - Lord Vader.md",
+    "SWGOH/Character - CX-2.md",
+    "SWGOH/Mod Notes.md",
+    "SWGOH/Squad Notes - Jabba The Hutt.md",
+    "SWGOH/Character - RC-1262 (Scorch).md",
     "Xbox/GTA V PC Achievements.md",
-    "Xbox/Indiana Jones and the Great Circle Achievements.md",
-    "Xbox/Borderland 3 Achievements.md",
-    "Xbox/Gears Tactics Achievements.md",
-    "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
-    "SWGOH/Character - Jedi Knight Luke Skywalker.md",
-    "SWGOH/Squad Notes - Jedi Knight Luke Skywalker.md",
-    "SWGOH/Squad Notes - Jedi Knight Revan.md",
-    "SWGOH/Character - Bastila Shan.md",
-    "SWGOH/Character - Jolee Bindo.md",
-    "SWGOH/Character - Grand Master Yoda.md",
-    "SWGOH/Character - Jedi Knight Revan.md",
-    "SWGOH/Squad Notes - Shaak Ti.md",
-    "SWGOH/Character - Shaak Ti.md",
-    "SWGOH/Character - CT-5555 Fives.md",
-    "SWGOH/Character - CT-7567 Rex.md",
-    "SWGOH/Character - CT-21-0408 Echo.md",
-    "SWGOH/Character - ARC Trooper.md",
-    "SWGOH/Squad Notes - General Skywalker.md",
-    "SWGOH/Squad Notes - Kelleran Beq.md",
-    "SWGOH/Character - Kelleran Beq.md",
+    "SWGOH/Character - Seventh Sister.md",
+    "SWGOH/Character - Jocasta Nu.md",
+    "SWGOH/Character - URoRRuRRR.md",
+    "Xbox/Minecraft Achievements.md",
+    "Xbox/Gears of War Boosting.md",
+    "Recipes/Lemon Vinaigrette.md",
+    "Recipes/Pork Katsu Recipe.md",
+    "SWGOH/Squad Notes - Jedi Vanguards.md",
+    "SWGOH/Character - Temple Guard.md",
+    "SWGOH/Character - Omega (Fugitive).md",
+    "SWGOH/Character - Jedi Temple Guard.md",
+    "Jedi Temple Guard.md",
     "SWGOH/Squad Notes - Qui-Gon Jinn.md",
+    "SWGOH/Character - Wrecker.md",
     "SWGOH/Character - Jedi Knight Anakin.md",
-    "SWGOH/Character - Grand Inquisitor.md",
-    "SWGOH/Character - Ninth Sister.md",
+    "SWGOH/Squad Notes - Bad Batch Mercenaries.md",
+    "SWGOH/Squad Notes - Bad Batch.md",
+    "SWGOH/Character - Omega.md",
+    "SWGOH/ROTE Notes.md",
     "Untitled",
     "Recipes",
     "Health",

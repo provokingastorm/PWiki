@@ -3,7 +3,7 @@
 [[Character - Eighth Brother|Eighth Brother]]
 [[Character - Ninth Sister|Ninth Sister]]
 [[Character - Fifth Brother|Fifth Brother]]
-[[Character Notes - Seventh Sister|Seventh Sister]]
+[[Character - Seventh Sister|Seventh Sister]]
 
 **Counters**
  - [[Squad Notes - Qui-Gon Jinn|Qui-Gon Jinn-led Jedi]]

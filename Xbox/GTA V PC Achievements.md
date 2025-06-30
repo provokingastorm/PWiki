@@ -63,8 +63,15 @@ I think a safe loop would be 29 minutes of space spam
 W + enter with a delay of like 30 seconds before it, W + enter with another 30 second delay, enter with a 15 second delay
 then a loop of spce spam for 29 straight minutes, it's super safe
 
+## Idle Levels
+https://socialclub.rockstargames.com/job/gtav/I5I8nC-**RHEu7BOdNycLUgw
+
 ### Doomsday Heist Criminal Mastermind
 
 Batch file to kill GTA V:
 `taskkill /f /im GTA5.exe`
 
+### Single Player Progress
+
+100% Checklist:
+https://socialclub.rockstargames.com/games/gtav/pc/career/checklist

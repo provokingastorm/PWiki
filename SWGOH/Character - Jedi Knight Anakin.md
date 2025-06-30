@@ -10,7 +10,7 @@
 
 ## Mod Notes
 
- - 
+ - **Goals:** Speed and Crit Chance/Damage so that Anakin can burst the enemy teams, especially if on a Qui-Gon Jinn GAC team.
 
 ## Recommended Zetas
 
