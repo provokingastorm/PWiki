@@ -12,3 +12,48 @@ The hard part is making the matches last as long as possible. The people tagging
 That sounds confusing but once you see how it works it's super easy.
 
 Oh, the boomshot sometimes spawns a torque bow, same thing tho, stand close and shoot the other player not in the head and blow up together
+
+
+## Achievements Needed
+**Don't Hate the Player - Finish with the highest points in a ranked match**
+peeeeeeeete
+Avoling
+ElusiveEagle
+Spiderman Noire
+SPNKr
+Xx80sRockerxX
+
+**Team 1**
+Rocker
+Eagle
+Pete
+
+**Team 2** - First
+Spiderman
+Hate
+Avoling
+
+**Turn Order**
+Spiderman
+Avoling
+Hate
+Rocker
+Pete
+Eagle
+
+**Game Types**
+Warzone
+Execution
+Assassination
+
+**Maps**
+Canals
+Clocktower
+Escalation
+Fuel Depot
+Gridlock
+Mansion
+Mausoleum
+Rooftops
+Tyro Station
+War Machine
