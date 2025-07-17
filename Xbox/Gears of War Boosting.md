@@ -1,12 +1,20 @@
 
 **Full Gears of War Boosting Group**
+
 peeeeeeeete
+
 Avoling
+
 ElusiveEagle
+
 Spiderman Noire
+
 SPNKr
+
 Xx80sRockerxX
+
 hatezerothree
+
 
 
 **Team 1**
