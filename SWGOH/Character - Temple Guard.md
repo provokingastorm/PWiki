@@ -10,17 +10,17 @@
 
 ## Mod Notes
 
- - **Goals**: 300+ Speed, 90% Potency, 140% Protection
- - **Sets**: Speed (4x), Potency (2x)
- - **Arrow**: Protection #ArrowSpeedSetProtectionPrimary #ArrowPotencySetProtectionPrimary
+ - **Goals**: Armor: 72%+, Health: 90,000+, Protection: 180,000+
+ - **Sets**: Health (4x), Defense (2x)
+ - **Arrow**: Protection #ArrowHealthSetProtectionPrimary #ArrowDefenseSetProtectionPrimary 
  - **Triangle**: Protection #TriangleSpeedSetProtectionPrimary #TrianglePotencySetProtectionPrimary
  - **Cross**: Potency #CrossSpeedSetPotencyPrimary #CrossPotencySetPotencyPrimary
  - **Circle**: Protection #CircleSpeedSetProtectionPrimary #CirclePotencySetProtectionPrimary
  - **Secondary Priorities**
-	 1. Speed
-	 2. Protection %
-	 3. Potency %
-	 4. Health %
+	1. Protection %
+	 2. Health %
+	 3. Defense %
+	 4. No Speed!
 
 ## Recommended Zetas
 
