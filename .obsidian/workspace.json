@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWGOH/Character - Grand Moff Tarkin.md",
+                "file": "Xbox/Gears of War Boosting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character - Grand Moff Tarkin"
+              "title": "Gears of War Boosting"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "c20d888dab9cd3e4",
@@ -165,8 +165,8 @@
   },
   "active": "be2e11111c68d63f",
   "lastOpenFiles": [
-    "SWGOH/Mod Notes.md",
     "SWGOH/Character - Grand Moff Tarkin.md",
+    "SWGOH/Mod Notes.md",
     "SWGOH/Character - Aayla Secura.md",
     "SWGOH/Character - Jedi Master Mace Windu.md",
     "SWGOH/Character - Depa Billaba.md",

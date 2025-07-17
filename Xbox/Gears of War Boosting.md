@@ -1,6 +1,6 @@
 
 **Full Gears of War Boosting Group**
-peeeeeeeete
+peeeeeeeete \n
 Avoling
 ElusiveEagle
 Spiderman Noire
