@@ -57,35 +57,16 @@ Xx80sRockerxX
 peeeeeeeete  
 ElusiveEagle  
 
-**I Spy with My Little Eye - Kill 100 enemies in ranked matches with the Longshot**  
-SPNKr  
-Avoling  
-ElusiveEagle  
-
-**The Money Shot - Kill 100 enemies in ranked matches with a headshot**  
-SPNKr  
-Avoling  
-ElusiveEagle  
-
 **Pistolero - Kill 100 enemies in ranked matches with a pistol**  
 SPNKr  
-Avoling  
-peeeeeeeete  
-ElusiveEagle  
 
 **Don't Hurt 'Em - Kill 100 enemies in ranked matches with the Hammer of Dawn**  
-SPNKr  
-Spiderman Noire  
 Avoling  
-Xx80sRockerxX  
-peeeeeeeete  
 ElusiveEagle  
 
 **It's a Massacre - Kill 100 enemies in ranked matches with the Chainsaw**  
 SPNKr  
-Spiderman Noire  
 Avoling  
-Xx80sRockerxX  
 peeeeeeeete  
 ElusiveEagle  
 
