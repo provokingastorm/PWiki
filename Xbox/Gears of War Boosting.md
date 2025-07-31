@@ -61,26 +61,16 @@ ElusiveEagle
 SPNKr  
 
 **Don't Hurt 'Em - Kill 100 enemies in ranked matches with the Hammer of Dawn**  
-Avoling  
 ElusiveEagle  
 
 **It's a Massacre - Kill 100 enemies in ranked matches with the Chainsaw**  
-SPNKr  
-Avoling  
-peeeeeeeete  
 ElusiveEagle  
 
 **Curb Appeal - Kill 100 enemies in ranked matches with the curb stomp**  
-SPNKr  
-Spiderman Noire  
-Avoling  
-Xx80sRockerxX  
-peeeeeeeete  
 ElusiveEagle  
 
 **Capital Punishment - Kill 100 enemies in ranked matches with an execution**  
 SPNKr  
-Spiderman Noire  
 Avoling  
 Xx80sRockerxX  
 peeeeeeeete  
