@@ -57,24 +57,8 @@ Xx80sRockerxX
 peeeeeeeete  
 ElusiveEagle  
 
-**Pistolero - Kill 100 enemies in ranked matches with a pistol**  
-SPNKr  
-
-**Don't Hurt 'Em - Kill 100 enemies in ranked matches with the Hammer of Dawn**  
-ElusiveEagle  
-
-**It's a Massacre - Kill 100 enemies in ranked matches with the Chainsaw**  
-ElusiveEagle  
-
-**Curb Appeal - Kill 100 enemies in ranked matches with the curb stomp**  
-ElusiveEagle  
-
 **Capital Punishment - Kill 100 enemies in ranked matches with an execution**  
 SPNKr  
-Avoling  
-Xx80sRockerxX  
-peeeeeeeete  
-ElusiveEagle  
 
 **Is It a Spider - Kill 100 enemies in ranked matches with grenade tag**  
 SPNKr  
