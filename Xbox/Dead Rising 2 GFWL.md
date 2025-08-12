@@ -1,4 +1,16 @@
 
+## Single Player Notes
+
+**Weapons - Ideal**  
+ - Knife Gloves (bosses)  
+ - Spiked Bat (groups of zombies)  
+ - Blambow (large clusters of zombies)  
+
+**Drinks - Ideal**  
+ - OJ (recovers 4 health bars)
+ - Mixed Drinks
+	 - Pain Killer
+	 - Quickstep
 
 ## Terror Is Reality
 
