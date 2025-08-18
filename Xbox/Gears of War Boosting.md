@@ -80,10 +80,7 @@ SPNKr
 **Is It a Spider - Kill 100 enemies in ranked matches with grenade tag**  
 SPNKr  
 Spiderman Noire  
-Avoling  
 Xx80sRockerxX  
-peeeeeeeete  
-ElusiveEagle  
 
 **Fall Down Go Boom - Kill 100 enemies in ranked matches with the Boomshot**  
 SPNKr  
@@ -94,12 +91,8 @@ peeeeeeeete
 ElusiveEagle  
 
 **The Nuge - Kill 100 enemies in ranked matches with the Torque Bow**  
-SPNKr  
-Spiderman Noire  
 Avoling  
-Xx80sRockerxX  
 peeeeeeeete  
-ElusiveEagle  
 
 **Seriously ... - Kill 10,000 people in versus ranked match total**  
 SPNKr  
