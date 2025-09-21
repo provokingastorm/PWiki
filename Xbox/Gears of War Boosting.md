@@ -21,6 +21,7 @@ hatezerothree
 Avoling  
 
 
+
 **Turn Order**  
 SPNKr  
 Spiderman Noire  
@@ -67,32 +68,10 @@ Oh, the boomshot sometimes spawns a torque bow, same thing tho, stand close and 
 ## Achievements Needed
 
 **A Series of Tubes - Host and complete 50 ranked matches** 
-SPNKr  
-Spiderman Noire  
 Avoling  
 Xx80sRockerxX  
 peeeeeeeete  
 ElusiveEagle  
-
-**Capital Punishment - Kill 100 enemies in ranked matches with an execution**  
-SPNKr  
-
-**Is It a Spider - Kill 100 enemies in ranked matches with grenade tag**  
-SPNKr  
-Spiderman Noire  
-Xx80sRockerxX  
-
-**Fall Down Go Boom - Kill 100 enemies in ranked matches with the Boomshot**  
-SPNKr  
-Spiderman Noire  
-Avoling  
-Xx80sRockerxX  
-peeeeeeeete  
-ElusiveEagle  
-
-**The Nuge - Kill 100 enemies in ranked matches with the Torque Bow**  
-Avoling  
-peeeeeeeete  
 
 **Seriously ... - Kill 10,000 people in versus ranked match total**  
 SPNKr  

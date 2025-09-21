@@ -11,7 +11,7 @@
 ## Mod Notes
 
  - Offense. He needs damage. 
- - Crit Chance because he has low crit chance. 80% is the target.C
+ - Crit Chance because he has low crit chance. 80% is the target.
 
 ## Recommended Zetas
 
