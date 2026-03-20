@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd22b9929d27c16",
+        "id": "658941c5bcebfb6f",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e26961cb6ebdf6",
+            "id": "d1e7a5dfcc1d79a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xbox/Dead Rising 2 GFWL.md",
+                "file": "Cronus/Cronus Script Development Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dead Rising 2 GFWL"
+              "title": "Cronus Script Development Notes"
+            }
+          },
+          {
+            "id": "54d4ea43c841b7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cronus App/Miscellaneous TODOs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miscellaneous TODOs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,35 +179,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1e26961cb6ebdf6",
+  "active": "54d4ea43c841b7c3",
   "lastOpenFiles": [
-    "Xbox/Minecraft Achievements.md",
+    "Cronus/Cronus Script Development Notes.md",
+    "Cronus App/Miscellaneous TODOs.md",
+    "SWGOH/Mod Notes.md",
+    "Cronus App",
+    "Xbox/Dead Rising 2 GFWL.md",
     "Xbox/Gears of War Boosting.md",
+    "Recipes/Baked Pork Chops.md",
+    "Cooking/On Cooking Meat.md",
+    "Cooking/Cooking Temperatures.md",
+    "Video. Taking notes from YouTube videos in Obsidian.md",
+    "Cooking/Cooking Troubleshooting.md",
+    "Video. I need to FLUSH AWAY my problems! WET Fart prank in NY!.md",
+    "Xbox/Borderlands The Pre-Sequel.md",
+    "SWGOH/Character - The Stranger.md",
+    "SWGOH/Character - CX-2.md",
+    "SWGOH/Character - Fifth Brother.md",
+    "SWGOH/Character - Iden Versio.md",
+    "SWGOH/Character - Nute Gunray.md",
+    "SWGOH/Character - Ninth Sister.md",
+    "SWGOH/Character - K-2SO.md",
+    "Xbox/Minecraft Achievements.md",
+    "Xbox/Gears Tactics Achievements.md",
     "SWGOH/Squad Notes - Pirate King Hondo.md",
     "SWGOH/Character - Captain Silvo.md",
     "SWGOH/Character - Vane.md",
     "SWGOH/Character - Temple Guard.md",
     "SWGOH/Squad Notes - Kelleran Beq.md",
-    "SWGOH/Squad Notes - Lord Vader.md",
-    "SWGOH/Squad Notes - Template.md",
-    "SWGOH/Squad Notes - 50R-T.md",
-    "SWGOH/Character - The Armorer.md",
-    "SWGOH/Character - Tusken Warrior.md",
-    "SWGOH/Character - URoRRuRRR.md",
-    "SWGOH/Character Template.md",
-    "SWGOH/Character - Omega (Fugitive).md",
-    "SWGOH/Squad Notes - Bad Batch Mercenaries.md",
-    "SWGOH/Character - Aayla Secura.md",
-    "SWGOH/Character - Grand Inquisitor.md",
-    "Xbox/Sacred 2 Achievements.md",
-    "Xbox/Dead Rising 2 GFWL.md",
-    "Xbox/Gears 5 Achievements.md",
-    "DirectX/DirectX9 Example 2.md",
-    "DirectX/DirectInput Example.md",
     "DirectX",
-    "DirectX/Setting Up a Dev Env for DirectX9.md",
-    "DirectX/Common Issues with DirectX9 Dev on Windows 11.md",
-    "DirectX/DirectX9 Example.md",
     "Recipes",
     "Health",
     "Cleaning",
