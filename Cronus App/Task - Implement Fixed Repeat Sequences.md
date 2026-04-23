@@ -7,7 +7,7 @@ As a user, I want be able to input a sequence that can repeat X amount of times.
  - The numbered text box defaults to 1.
  - The numbered text box cannot go below 1. 
  - The numbered text cannot exceed 99. 
- - The program provides a button to append the current input sequence to running input command list. 
+
 
 ## Status Report
 

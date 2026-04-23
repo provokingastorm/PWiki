@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "658941c5bcebfb6f",
+        "id": "aef838605b7ad5f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e7a5dfcc1d79a5",
+            "id": "8018e81aac711727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cronus App/Cronus Script Generator Tasks.md",
+                "file": "SWGOH/Mod Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronus Script Generator Tasks"
+              "title": "Mod Notes"
             }
           },
           {
-            "id": "03ea83b2ea7f759a",
+            "id": "7387be845c6af883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cronus App/Task - Implement Fixed Repeat Sequences.md",
+                "file": "SWGOH/Character - Satele Shan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task - Implement Fixed Repeat Sequences"
+              "title": "Character - Satele Shan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TriangleSpeedSetCritDamagePrimary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,43 +179,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1e7a5dfcc1d79a5",
+  "active": "7387be845c6af883",
   "lastOpenFiles": [
-    "Cronus App/Task - Implement Fixed Repeat Sequences.md",
+    "SWGOH/Character - Stormtrooper Luke.md",
+    "SWGOH/Character - Satele Shan.md",
+    "SWGOH/Character - Yoda and Chewbacca.md",
+    "SWGOH/Mod Notes.md",
+    "SWGOH/Character - Darth Vader (Duel's End).md",
+    "SWGOH/Character - Asajj Ventress (Dark Disciple).md",
+    "SWGOH/Character - Inquisitor Barriss.md",
+    "SWGOH/Squad Notes - Cere Junda.md",
+    "SWGOH/Character - IG-90.md",
+    "Untitled.base",
+    "SWGOH/Character - Vane.md",
+    "SWGOH/Squad Notes - Pirate King Hondo.md",
+    "SWGOH/Squad Notes - Lord Vader.md",
+    "SWGOH/Character - Grand Inquisitor.md",
+    "SWGOH/Character Template.md",
+    "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
+    "SWGOH/Character - Second Sister.md",
+    "SWGOH/Character - Captain Silvo.md",
+    "SWGOH/Character - Padme Amidala.md",
+    "SWGOH/Character - Jedi Master Mace Windu.md",
+    "SWGOH/Character - RC-1262 (Scorch).md",
+    "Cronus App/Task - Implement Input Sequence Text Box.md",
     "Cronus App/Cronus Script Generator Tasks.md",
+    "Cronus App/Task - Implement Fixed Repeat Sequences.md",
     "Cronus App/Z Task Template.md",
     "Xbox/Spyro Reignited Trilogy Achievements.md",
     "Xbox/WWZ Achievements.md",
-    "Cronus/Cronus Script Development Notes.md",
-    "Recipes/Italian Dressing Recipe.md",
-    "Recipes/Lemon Vinaigrette.md",
     "Untitled",
-    "Xbox/Dead Rising 2 GFWL.md",
-    "Xbox/Sunset Overdrive Achievements.md",
-    "Cooking/On Cooking Meat.md",
-    "Cooking/Cooking Troubleshooting.md",
-    "Cooking/Cooking Equipment.md",
-    "SWGOH/Mod Notes.md",
     "Cronus App",
-    "Xbox/Gears of War Boosting.md",
-    "Recipes/Baked Pork Chops.md",
-    "Cooking/Cooking Temperatures.md",
-    "Video. Taking notes from YouTube videos in Obsidian.md",
-    "Video. I need to FLUSH AWAY my problems! WET Fart prank in NY!.md",
-    "Xbox/Borderlands The Pre-Sequel.md",
-    "SWGOH/Character - The Stranger.md",
-    "SWGOH/Character - CX-2.md",
-    "SWGOH/Character - Fifth Brother.md",
-    "SWGOH/Character - Iden Versio.md",
-    "SWGOH/Character - Nute Gunray.md",
-    "SWGOH/Character - Ninth Sister.md",
     "DirectX",
     "Recipes",
     "Health",
     "Cleaning",
     "Home Improvement",
     "Cronus",
-    "Cooking",
-    "Xbox"
+    "Cooking"
   ]
 }
