@@ -6,7 +6,7 @@
  - Turn on a fan and/or open windows to speed up the drying process.
 
 ### Don't's
- - dfdf
+ - 
 
 ### Links
 https://www.youtube.com/shorts/X_daKaQoPr0

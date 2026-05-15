@@ -13,9 +13,11 @@
 #TriangleSpeedSetProtectionPrimary 
 #TriangleSpeedSetCritDamagePrimary
 #TriangleSpeedSetDefensePrimary
+#TriangleSpeedSetHealthPrimary
 #TriangleHealthSetOffensePrimary
 #TriangleHealthSetProtectionPrimary
 #TriangleHealthSetCritDamagePrimary
+#TriangleHealthSetHealthPrimary 
 #TrianglePotencySetProtectionPrimary 
 #TrianglePotencySetCritDamagePrimary
 #TrianglePotencySetOffensePrimary
@@ -23,6 +25,7 @@
 #TriangleDefenseSetDefensePrimary
 #TriangleOffenseSetCritDamagePrimary 
 #TriangleTenacitySetProtectionPrimary
+#TriangleTenacitySetHealthPrimary
 #TriangleCritChanceSetCritDamagePrimary
 
 ### Cross Mod Filters
@@ -30,9 +33,11 @@
 #CrossSpeedSetPotencyPrimary 
 #CrossSpeedSetProtectionPrimary
 #CrossSpeedSetOffensePrimary
+#CrossSpeedSetHealthPrimary
 #CrossHealthSetTenacityPrimary
 #CrossHealthSetProtectionPrimary
 #CrossHealthSetOffensePrimary
+#CrossHealthSetHealthPrimary 
 #CrossPotencySetPotencyPrimary
 #CrossPotencySetOffensePrimary
 #CrossDefenseSetProtectionPrimary
@@ -50,8 +55,10 @@
 #CircleDefenseSetProtectionPrimary
 #CircleOffenseSetHealthPrimary 
 #CircleOffenseSetProtectionPrimary
+#CircleTenacitySetHealthPrimary
 #CircleTenacitySetProtectionPrimary
 #CircleCritChanceSetHealthPrimary
+#CircleCritChanceSetProtectionPrimary
 
 ### Arrow Mod Filters
 #ArrowSpeedSetProtectionPrimary 
