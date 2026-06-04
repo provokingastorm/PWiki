@@ -17,6 +17,3 @@
  - Can be refrigerated for up to a week.
 ### Links
 https://www.foodwithoutborders.us/recipes/honey-sriracha-lime-dressing/
-
-## Tags
-#SaladDressing

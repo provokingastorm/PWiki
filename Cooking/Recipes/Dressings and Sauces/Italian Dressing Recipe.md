@@ -25,7 +25,7 @@
 
 ### Notes
 
- - This recipe makes approximately 1 cup of dressing. Each serving is about 2 tablespoons.
+- This recipe makes approximately 1 cup of dressing. Each serving is about 2 tablespoons.
 - **Storage tip:** This will last for up to one week in the fridge.
 
 ### Links

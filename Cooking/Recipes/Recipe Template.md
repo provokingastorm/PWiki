@@ -1,18 +1,24 @@
+(hashtags here)
 ### Equipment
 
- - Air fryer
+ - 
 
 ### Ingredients
 
- - Wash and cut baby po
+ - 
 
 ### Instructions
 
- - 
+1. 
 
 ### Notes
 
  - 
 
 ### Links
- - https://www.youtube.com/watch?v=p1OKC3euKwQ
+
+ - 
+
+### Purchase List
+
+ - 

@@ -3,7 +3,7 @@
 [[Character - RC-1262 (Scorch)|Scorch]]
 [[Character - CX-2|CX-2]]
 [[Character - CC-1119 Appo|Appo]]
-
+[[Character - Disguised Clone Trooper|Disguised Clone]]
 
 **Counters**
  - 

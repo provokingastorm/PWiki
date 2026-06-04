@@ -28,11 +28,13 @@
  - Makes 1/2 cup.
 
 ### Links
+
 https://www.loveandlemons.com/lemon-vinaigrette/
 https://downshiftology.com/recipes/lemon-vinaigrette/
 https://www.instagram.com/reel/DYAM0aby2av/
 
 ### Purchase List
+
  - Lemon (for Lemon Vinaigrette)
  - Garlic (for Lemon Vinaigrette)
  - Dijon mustard (for Lemon Vinaigrette)
