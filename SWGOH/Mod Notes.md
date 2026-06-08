@@ -9,59 +9,64 @@
 ## Mod Filters
 
 ### Triangle Mod Filters
+#TriangleCritChanceSetCritDamagePrimary
+#TriangleCritDamageSetCritDamagePrimary
+#TriangleDefenseSetProtectionPrimary
+#TriangleDefenseSetDefensePrimary
+#TriangleHealthSetOffensePrimary
+#TriangleHealthSetProtectionPrimary
+#TriangleHealthSetCritDamagePrimary
+#TriangleHealthSetHealthPrimary 
+#TriangleOffenseSetCritDamagePrimary 
+#TrianglePotencySetProtectionPrimary 
+#TrianglePotencySetCritDamagePrimary
+#TrianglePotencySetOffensePrimary
 #TriangleSpeedSetOffensePrimary 
 #TriangleSpeedSetProtectionPrimary 
 #TriangleSpeedSetCritDamagePrimary
 #TriangleSpeedSetDefensePrimary
 #TriangleSpeedSetHealthPrimary
-#TriangleHealthSetOffensePrimary
-#TriangleHealthSetProtectionPrimary
-#TriangleHealthSetCritDamagePrimary
-#TriangleHealthSetHealthPrimary 
-#TrianglePotencySetProtectionPrimary 
-#TrianglePotencySetCritDamagePrimary
-#TrianglePotencySetOffensePrimary
-#TriangleDefenseSetProtectionPrimary
-#TriangleDefenseSetDefensePrimary
-#TriangleOffenseSetCritDamagePrimary 
 #TriangleTenacitySetProtectionPrimary
 #TriangleTenacitySetHealthPrimary
-#TriangleCritChanceSetCritDamagePrimary
 
 ### Cross Mod Filters
+#CrossCritChanceSetOffensePrimary
+#CrossCritDamageSetPotencyPrimary
+#CrossDefenseSetProtectionPrimary
+#CrossHealthSetTenacityPrimary
+#CrossHealthSetProtectionPrimary
+#CrossHealthSetOffensePrimary
+#CrossHealthSetHealthPrimary 
+#CrossOffenseSetOffensePrimary 
+#CrossOffenseSetPotencyPrimary
+#CrossPotencySetPotencyPrimary
+#CrossPotencySetOffensePrimary
+#CrossPotencySetProtectionPrimary
 #CrossSpeedSetTenacityPrimary
 #CrossSpeedSetPotencyPrimary 
 #CrossSpeedSetProtectionPrimary
 #CrossSpeedSetOffensePrimary
 #CrossSpeedSetHealthPrimary
-#CrossHealthSetTenacityPrimary
-#CrossHealthSetProtectionPrimary
-#CrossHealthSetOffensePrimary
-#CrossHealthSetHealthPrimary 
-#CrossPotencySetPotencyPrimary
-#CrossPotencySetOffensePrimary
-#CrossDefenseSetProtectionPrimary
-#CrossOffenseSetOffensePrimary 
 #CrossTenacitySetTenacityPrimary
-#CrossCritChanceSetOffensePrimary
 
 ### Circle Mod Filters
-#CircleSpeedSetHealthPrimary
-#CircleSpeedSetProtectionPrimary
-#CircleHealthSetHealthPrimary
-#CircleHealthSetProtectionPrimary 
-#CirclePotencySetProtectionPrimary
-#CirclePotencySetHealthPrimary
-#CircleDefenseSetProtectionPrimary
-#CircleOffenseSetHealthPrimary 
-#CircleOffenseSetProtectionPrimary
-#CircleTenacitySetHealthPrimary
-#CircleTenacitySetProtectionPrimary
 #CircleCritChanceSetHealthPrimary
 #CircleCritChanceSetProtectionPrimary
+#CircleCritDamageSetHealthPrimary
+#CircleCritDamageSetProtectionPrimary
+#CircleDefenseSetProtectionPrimary
+#CircleHealthSetHealthPrimary
+#CircleOffenseSetHealthPrimary 
+#CircleOffenseSetProtectionPrimary
+#CirclePotencySetHealthPrimary
+#CirclePotencySetProtectionPrimary
+#CircleSpeedSetHealthPrimary
+#CircleSpeedSetProtectionPrimary
+#CircleTenacitySetHealthPrimary
+#CircleTenacitySetProtectionPrimary
 
 ### Arrow Mod Filters
-#ArrowSpeedSetProtectionPrimary 
-#ArrowPotencySetProtectionPrimary
 #ArrowDefenseSetProtectionPrimary 
 #ArrowHealthSetProtectionPrimary
+#ArrowPotencySetProtectionPrimary
+#ArrowSpeedSetProtectionPrimary 

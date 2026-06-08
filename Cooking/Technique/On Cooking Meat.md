@@ -2,6 +2,8 @@
 ## Safe Eating Temperatures
 Beef - 140 degrees
 Chicken - 165 degrees
+Chicken Thighs - 185 degrees 
+ - Cooking it at a higher temperature melts all the collagen, like you would brisket. Gives it a better flavor.
 
 ## On Cooking Fish
  - Reverse sear salmon on the stove top.

@@ -1,8 +1,8 @@
-**SWGOH.gg**: https://swgoh.gg/units/mace-windu/
+**SWGOH.gg**: https://swgoh.gg/units/nightsister-spirit/
 
 ## Common Squads
 
-[[Squad Notes - Qui-Gon Jinn]]
+[[Squad Notes - Great Mothers]]
 
 ## Gameplay Notes
 

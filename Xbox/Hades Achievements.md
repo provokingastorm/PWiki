@@ -7,7 +7,6 @@ Legendary
 ============
  - Second Wave
  - Greater Recall
- - Bad News
  - Winter Harvest
 
 Duos
@@ -24,7 +23,13 @@ Duos
  - Cold Fusion
  - Curse of Drowning
  - Cold Embrace
- - Freezing Vortex
+
+### Primodial Boons
+===================
+ - Favor
+ - Flourish
+ - Assault
+ - Defiance
 
 Stygius Deadalus
 ===================
@@ -35,7 +40,6 @@ Stygius Deadalus
 
 Heart-Seeking Bow Deadalus
 ======================
- - Twin Shot
  - Flurry Shot
  - Charged Volley
  - Point-Blank Shot
@@ -49,14 +53,10 @@ Eternal Spear Daedalus
 ===================
  - Extending Jab
  - Flurry Jab
- - Breaching Skewer
- - Massive Spin
  - Charged Skewer
- - Flaring Spin
 
 Twin Fists Daedalus
 ==================
- - Long Knuckle
  - Explosive Upper
  - Flying Cutter
  - Heavy Knuckle
