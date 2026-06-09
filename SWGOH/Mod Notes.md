@@ -11,42 +11,43 @@
 ### Triangle Mod Filters
 #TriangleCritChanceSetCritDamagePrimary
 #TriangleCritDamageSetCritDamagePrimary
-#TriangleDefenseSetProtectionPrimary
 #TriangleDefenseSetDefensePrimary
-#TriangleHealthSetOffensePrimary
-#TriangleHealthSetProtectionPrimary
+#TriangleDefenseSetProtectionPrimary
 #TriangleHealthSetCritDamagePrimary
 #TriangleHealthSetHealthPrimary 
+#TriangleHealthSetOffensePrimary
+#TriangleHealthSetProtectionPrimary
 #TriangleOffenseSetCritDamagePrimary 
-#TrianglePotencySetProtectionPrimary 
 #TrianglePotencySetCritDamagePrimary
 #TrianglePotencySetOffensePrimary
-#TriangleSpeedSetOffensePrimary 
-#TriangleSpeedSetProtectionPrimary 
+#TrianglePotencySetProtectionPrimary 
 #TriangleSpeedSetCritDamagePrimary
 #TriangleSpeedSetDefensePrimary
 #TriangleSpeedSetHealthPrimary
-#TriangleTenacitySetProtectionPrimary
+#TriangleSpeedSetOffensePrimary 
+#TriangleSpeedSetProtectionPrimary 
 #TriangleTenacitySetHealthPrimary
+#TriangleTenacitySetProtectionPrimary
 
 ### Cross Mod Filters
 #CrossCritChanceSetOffensePrimary
 #CrossCritDamageSetPotencyPrimary
 #CrossDefenseSetProtectionPrimary
-#CrossHealthSetTenacityPrimary
-#CrossHealthSetProtectionPrimary
-#CrossHealthSetOffensePrimary
 #CrossHealthSetHealthPrimary 
+#CrossHealthSetOffensePrimary
+#CrossHealthSetProtectionPrimary
+#CrossHealthSetTenacityPrimary
+#CrossOffenseSetHealthPrimary
 #CrossOffenseSetOffensePrimary 
 #CrossOffenseSetPotencyPrimary
-#CrossPotencySetPotencyPrimary
 #CrossPotencySetOffensePrimary
+#CrossPotencySetPotencyPrimary
 #CrossPotencySetProtectionPrimary
-#CrossSpeedSetTenacityPrimary
+#CrossSpeedSetHealthPrimary
+#CrossSpeedSetOffensePrimary
 #CrossSpeedSetPotencyPrimary 
 #CrossSpeedSetProtectionPrimary
-#CrossSpeedSetOffensePrimary
-#CrossSpeedSetHealthPrimary
+#CrossSpeedSetTenacityPrimary
 #CrossTenacitySetTenacityPrimary
 
 ### Circle Mod Filters
@@ -66,7 +67,13 @@
 #CircleTenacitySetProtectionPrimary
 
 ### Arrow Mod Filters
+#ArrowCritChanceSetAccuracyPrimary
+#ArrowCritChanceSetOffensePrimary
 #ArrowDefenseSetProtectionPrimary 
+#ArrowHealthSetOffensePrimary
 #ArrowHealthSetProtectionPrimary
+#ArrowOffenseSetAccuracyPrimary 
+#ArrowOffenseSetOffensePrimary 
 #ArrowPotencySetProtectionPrimary
 #ArrowSpeedSetProtectionPrimary 
+#ArrowTenacitySetHealthPrimary
