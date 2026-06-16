@@ -1,0 +1,49 @@
+
+
+### Bands Recommend by Skyler (college)
+
+ - Alice Coltrane
+ - Battles
+ - Best Fwends
+ - Big Sham
+ - Black Moth Super Rainbow
+ - BMSR
+ - BRAINFEEDER
+ - Dan Deacon
+ - DANGERDOOM
+ - Deerhoof
+ - Dirty Projectors
+ - Doom
+ - Flying Lotus
+ - Francisco Mela
+ - Free the Robots
+ - Hella
+ - Hudson Mohawke
+ - J Dilla
+ - Joshua Davis
+ - Justice
+ - Madlib
+ - Madvillain
+ - McCoy Tyner
+ - MF Doom
+ - Nomo
+ - Ocdj
+ - Onra
+ - Quasimoto
+ - RATATAT
+ - RJD2
+ - Samiyam
+ - Sevenfinity
+ - Small Town Murder
+ - T. Rex
+ - The Black Keys
+ - The Books
+ - The Hood Internet
+ - The Notorious
+ - The Octupus Project
+ - The Velvet Underground
+ - The Walkmen
+ - Tobacco
+ - Tribal Suns
+ - Willafonz
+ - Zach Hill

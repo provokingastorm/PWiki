@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "621b018ce8d4064e",
+        "id": "dd13d919a941109e",
         "type": "tabs",
         "children": [
           {
-            "id": "b5ea26f2d7ac1910",
+            "id": "f3d3e6916d627e5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWGOH/Mod Notes.md",
+                "file": "Cleaning/Cleaning With Bleach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mod Notes"
+              "title": "Cleaning With Bleach"
             }
           }
         ]
@@ -164,43 +164,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5ea26f2d7ac1910",
+  "active": "f3d3e6916d627e5f",
   "lastOpenFiles": [
+    "Cleaning/Images/Bleach_Solution_2000ppm.png",
+    "Cleaning/Images/Bleach_Solutin_2000ppm.png",
+    "Cleaning/Images/Bleach_Solution_1500ppm.png",
+    "Cleaning/Cleaning Reusable Water Bottles.md",
+    "Cleaning/Cleaning Washing Machines.md",
+    "Software Development/Game Development/Game Engines.md",
+    "Cleaning/Recommended Cleaning Supplies.md",
+    "Cleaning/Cleaning With Bleach.md",
+    "Cleaning/Images",
+    "Cleaning/New folder",
+    "SWGOH/Character - Depa Billaba.md",
+    "Cooking/Recipes/Dinner/Greek Chicken and Potatoes.md",
+    "Pets/Plant Guide For Pet Owners.md",
+    "Pets",
+    "SWGOH/Character - Lord Vader.md",
+    "Tech/Top Software.md",
+    "Software Development",
+    "Tech",
+    "Media/Movie Acquisition.md",
+    "Media/Explore Music.md",
+    "Software Development/Game Development",
+    "SWGOH/Mod Notes.md",
     "SWGOH/Squad Notes - Bad Batch Mercenaries.md",
     "SWGOH/Character - Omega (Fugitive).md",
     "SWGOH/Character - Batcher.md",
     "SWGOH/Character - Hunter (Mercenary).md",
     "SWGOH/Character - Wrecker (Mercenary).md",
     "SWGOH/Character - Crosshair (Scarred).md",
-    "SWGOH/Mod Notes.md",
     "SWGOH/Character Template.md",
     "SWGOH/Character - Zaalbar.md",
     "SWGOH/Character - Wrecker.md",
     "SWGOH/Squad Notes Template.md",
     "SWGOH/Character - Wampa.md",
     "SWGOH/Squad Notes - Ahsoka Tano (Galactic Legend).md",
-    "SWGOH/Character - Huyang.md",
-    "SWGOH/Character - Padawan Sabine Wren.md",
-    "SWGOH/Character - General Syndulla.md",
-    "SWGOH/Character - Ezra Bridger (Exile).md",
-    "SWGOH/Character - Ahsoka Tano (Galactic Legend).md",
-    "SWGOH/Character - Kix.md",
-    "SWGOH/Character - SM-33.md",
-    "SWGOH/Character - Quiggold.md",
-    "SWGOH/Character - Captain Ithano.md",
-    "SWGOH/Character - Mission Vao.md",
-    "SWGOH/Squad Notes - Darth Revan.md",
-    "Cooking/Recipes/Dinner/Greek Chicken and Potatoes.md",
-    "Cooking/Cooking Home.md",
     "Cooking/Recipes/Dinner",
     "Cooking/Recipes/Dressings and Sauces",
     "Cooking/Recipes/Salads",
-    "Cooking/Recipes/Sides",
-    "Cooking/Technique",
-    "Untitled.base",
-    "Cronus App",
-    "DirectX",
-    "Cooking/Recipes",
-    "Health"
+    "Cooking/Recipes/Sides"
   ]
 }

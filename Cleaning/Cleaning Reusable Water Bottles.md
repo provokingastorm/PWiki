@@ -1,6 +1,4 @@
 # Cleaning Reusable Water Bottles
-**Link**: https://www.letscleanthatup.com/how-to-clean-your-reusable-water-bottle-a-step-by-step-guide/
-**YouTube**: https://www.youtube.com/watch?v=O_qW3j4YaFA&ab_channel=CleanThatUp
 
 Keeping your reusable water bottle clean is essential for your health and the environment. A study highlighted that a reusable water bottle could be significantly dirtier than a toilet seat, emphasizing the importance of regular and thorough cleaning. Here’s a comprehensive guide to ensure your hydration companion remains fresh, bacteria-free, and ready for your next adventure.
 
@@ -39,3 +37,8 @@ When putting your water bottle back together, ensure all seals are correctly pla
 With your water bottle now clean and dry, you’re ready to fill it up and stay hydrated. Regular cleaning following these steps will keep your bottle in top condition, ensuring safe and enjoyable use.
 
 Remember, a clean water bottle is not just about taste or odor; it’s about health. By taking the time to clean your bottle properly, you’re taking a step towards healthier hydration habits.
+
+## Links
+
+**Website**: https://www.letscleanthatup.com/how-to-clean-your-reusable-water-bottle-a-step-by-step-guide/
+**YouTube**: https://www.youtube.com/watch?v=O_qW3j4YaFA&ab_channel=CleanThatUp
