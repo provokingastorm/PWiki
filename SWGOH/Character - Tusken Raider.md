@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Tusken Raiders]]
+[[Squad Notes - Tusken Raiders#Squad 1 - Standard Squad|Tusken Raiders Standard]]
 
 ## Gameplay Notes
 

@@ -1,4 +1,4 @@
-**SWGOH.gg**: https://swgoh.gg/units/tusken-shaman/
+**SWGOH.gg**: https://swgoh.gg/units/tusken-chieftain/
 
 ## Common Squads
 

@@ -2,7 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Tusken Raiders]]
+[[Squad Notes - Tusken Raiders#Squad 1 - Standard Squad|Tusken Raiders Standard]]
+[[Squad Notes - Cobb Vanth#Squad 2 - Constables Mixed Tatooine|Constables Mixed Tatooine]]
 
 ## Gameplay Notes
 

@@ -1,5 +1,5 @@
 
-## Squad 1 - Default Squad
+## Squad 1 - Standard Squad
 [[Character - Tusken Chieftain|Tusken Chieftain]] (Lead)
 [[Character - Tusken Warrior|Tusken Warrior]]
 [[Character - Tusken Raider|Tusken Raider]]

@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3d3e6916d627e5f",
+            "id": "e176743d9ee21fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cleaning/Cleaning With Bleach.md",
+                "file": "SWGOH/Squad Notes - Cobb Vanth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cleaning With Bleach"
+              "title": "Squad Notes - Cobb Vanth"
+            }
+          },
+          {
+            "id": "f603a4dd57e33448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWGOH/Character - Cobb Vanth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character - Cobb Vanth"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWGOH/Mod Tips.md",
+                "file": "SWGOH/Mod Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mod Tips"
+              "title": "Backlinks for Mod Notes"
             }
           },
           {
@@ -140,13 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWGOH/Mod Tips.md"
+                "file": "SWGOH/Character - Cobb Vanth.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mod Tips"
+              "title": "Outline of Character - Cobb Vanth"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,45 +183,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3d3e6916d627e5f",
+  "active": "f603a4dd57e33448",
   "lastOpenFiles": [
+    "SWGOH/Character - Chief Nebit.md",
+    "SWGOH/Character - Cobb Vanth.md",
+    "SWGOH/Squad Notes - Cobb Vanth.md",
+    "SWGOH/Squad Notes - Tusken Raiders.md",
+    "SWGOH/Character - Tusken Warrior.md",
+    "Character - Tusken Chieftain.md",
+    "SWGOH/Character - Tusken Raider.md",
+    "SWGOH/Character - URoRRuRRR.md",
+    "SWGOH/Character - Tusken Shaman.md",
+    "SWGOH/Character - Coruscant Underworld Police.md",
+    "SWGOH/Character - Jawa Scavenger.md",
+    "SWGOH/Character Template.md",
+    "SWGOH/Squad Notes - Jawas.md",
+    "SWGOH/Character - Jawa.md",
+    "SWGOH/Character - Jawa Engineer.md",
+    "SWGOH/Character - Dathcha.md",
+    "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
+    "SWGOH/Squad Notes - Pirate King Hondo.md",
+    "SWGOH/Squad Notes - Great Mothers.md",
+    "SWGOH/Squad Notes - General Grievous.md",
+    "SWGOH/Squad Notes - General Skywalker.md",
+    "SWGOH/Squad Notes - Cere Junda.md",
+    "Cleaning/How Often You Should Wash Your Stuff.md",
+    "Pets/Cat Maintenance Tips.md",
+    "Laundry",
+    "Studying/Getting Familiar with Reading Material.md",
+    "SWGOH/Mod Notes.md",
+    "Studying",
+    "House",
+    "Cooking/Recipes/Breakfast",
     "Cleaning/Images/Bleach_Solution_2000ppm.png",
     "Cleaning/Images/Bleach_Solutin_2000ppm.png",
     "Cleaning/Images/Bleach_Solution_1500ppm.png",
-    "Cleaning/Cleaning Reusable Water Bottles.md",
-    "Cleaning/Cleaning Washing Machines.md",
-    "Software Development/Game Development/Game Engines.md",
-    "Cleaning/Recommended Cleaning Supplies.md",
-    "Cleaning/Cleaning With Bleach.md",
     "Cleaning/Images",
     "Cleaning/New folder",
-    "SWGOH/Character - Depa Billaba.md",
-    "Cooking/Recipes/Dinner/Greek Chicken and Potatoes.md",
-    "Pets/Plant Guide For Pet Owners.md",
     "Pets",
-    "SWGOH/Character - Lord Vader.md",
-    "Tech/Top Software.md",
     "Software Development",
     "Tech",
-    "Media/Movie Acquisition.md",
-    "Media/Explore Music.md",
-    "Software Development/Game Development",
-    "SWGOH/Mod Notes.md",
-    "SWGOH/Squad Notes - Bad Batch Mercenaries.md",
-    "SWGOH/Character - Omega (Fugitive).md",
-    "SWGOH/Character - Batcher.md",
-    "SWGOH/Character - Hunter (Mercenary).md",
-    "SWGOH/Character - Wrecker (Mercenary).md",
-    "SWGOH/Character - Crosshair (Scarred).md",
-    "SWGOH/Character Template.md",
-    "SWGOH/Character - Zaalbar.md",
-    "SWGOH/Character - Wrecker.md",
-    "SWGOH/Squad Notes Template.md",
-    "SWGOH/Character - Wampa.md",
-    "SWGOH/Squad Notes - Ahsoka Tano (Galactic Legend).md",
-    "Cooking/Recipes/Dinner",
-    "Cooking/Recipes/Dressings and Sauces",
-    "Cooking/Recipes/Salads",
-    "Cooking/Recipes/Sides"
+    "Software Development/Game Development"
   ]
 }
