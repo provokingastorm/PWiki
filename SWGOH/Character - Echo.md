@@ -2,7 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Bad Batch]]
+[[Squad Notes - Bad Batch|Bad Batch]]
+[[Squad Notes - Queen Amidala#Squad 1 - Standard 5v5|Queen Amidala]]
 
 ## Gameplay Notes
 

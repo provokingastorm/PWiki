@@ -1,8 +1,8 @@
-**SWGOH.gg**: https://swgoh.gg/units/satele-shan/
+**SWGOH.gg**: https://swgoh.gg/units/baylan-skoll/
 
 ## Common Squads
 
-[[Squad Notes - Satele Shan#Squad 1 - Standard 5v5|Satele Shan Old Republic]]
+[[Squad Notes - Baylan Skoll#Squad 1 - Standard 5v5|Baylan Skoll Standard 5v5]]
 
 ## Gameplay Notes
 
@@ -10,16 +10,16 @@
 
 ## Mod Notes
 
- - **Goals**: 320+ Speed, 200K+ Protection
+ - **Goals**: 355+ Speed, 115K+ Health, 148K+ Protection
  - **Sets**: Speed (4x), Health (2x)
- - **Arrow**: Protection
- - **Triangle**: Protection #TriangleSpeedSetProtectionPrimary #TriangleHealthSetProtectionPrimary 
+ - **Arrow**: Speed
+ - **Triangle**: Health #TriangleSpeedSetHealthPrimary #TriangleHealthSetHealthPrimary 
  - **Cross**: Protection #CrossSpeedSetProtectionPrimary #CrossHealthSetProtectionPrimary 
  - **Circle**: Protection #CircleSpeedSetProtectionPrimary #CircleHealthSetProtectionPrimary 
  - **Secondary Priorities**
-	 1. Protection %
-	 2. Speed
-	 3. Protection Flat
+	 1. Speed
+	 2. Protection %
+	 3. Health %
 	 4. Offense %
 
 ## Recommended Zetas

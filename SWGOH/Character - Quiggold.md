@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-
+[[Squad Notes - Maz Kanata#Squad 1 - Standard 5v5|Maz Kanata Leftover Pirates]]
 
 ## Gameplay Notes
 

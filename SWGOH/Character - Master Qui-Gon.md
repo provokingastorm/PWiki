@@ -1,8 +1,8 @@
-**SWGOH.gg**: https://swgoh.gg/units/kix/
+**SWGOH.gg**: https://swgoh.gg/units/master-qui-gon/
 
 ## Common Squads
 
-[[Squad Notes - Maz Kanata#Squad 1 - Standard 5v5|Maz Kanata Leftover Pirates]]
+[[Squad Notes - Queen Amidala#Squad 1 - Standard 5v5|Queen Amidala]]
 
 ## Gameplay Notes
 
@@ -10,7 +10,7 @@
 
 ## Mod Notes
 
- - **Goals**: 350+ Speed, 130K+ Health
+ - **Goals**: 340+ Speed, 90K+ Health
  - **Sets**: Speed (4x), Health (2x)
  - **Arrow**: Speed
  - **Triangle**: Health #TriangleSpeedSetHealthPrimary #TriangleHealthSetHealthPrimary 
@@ -19,8 +19,8 @@
  - **Secondary Priorities**
 	 1. Speed
 	 2. Health %
-	 3. Health Flat
-	 4. Tenacity %
+	 3. Speed
+	 4. Health Flat
 
 ## Recommended Zetas
 

@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - The Stranger]]
+[[Squad Notes - The Stranger#Squad 1 - Standard 5v5|The Stranger Standard 5v5]]
 
 ## Gameplay Notes
 

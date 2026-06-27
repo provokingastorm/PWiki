@@ -9,6 +9,7 @@
 ## Mod Filters
 
 ### Triangle Mod Filters
+#TriangleCritChanceSetCritChancePrimary
 #TriangleCritChanceSetCritDamagePrimary
 #TriangleCritDamageSetCritDamagePrimary
 #TriangleDefenseSetDefensePrimary
@@ -17,6 +18,7 @@
 #TriangleHealthSetHealthPrimary 
 #TriangleHealthSetOffensePrimary
 #TriangleHealthSetProtectionPrimary
+#TriangleOffenseSetCritChancePrimary
 #TriangleOffenseSetCritDamagePrimary 
 #TrianglePotencySetCritDamagePrimary
 #TrianglePotencySetOffensePrimary
@@ -27,6 +29,7 @@
 #TriangleSpeedSetOffensePrimary 
 #TriangleSpeedSetProtectionPrimary 
 #TriangleTenacitySetHealthPrimary
+#TriangleTenacitySetOffensePrimary
 #TriangleTenacitySetProtectionPrimary
 
 ### Cross Mod Filters

@@ -11,17 +11,17 @@
 
 ## Mod Notes
 
- - **Goals**: 
- - **Sets**: 
- - **Arrow**: 
- - **Triangle**: 
- - **Cross**: 
- - **Circle**: 
+ - **Goals**: 340+ Speed, 8.6K+ Physical Damage
+ - **Sets**: Speed (4x), Health (2x) (or Tenacity 2x to avoid debuffs)
+ - **Arrow**: Speed
+ - **Triangle**: Crit Damage #TriangleSpeedSetCritDamagePrimary #TriangleHealthSetCritDamagePrimary 
+ - **Cross**: Offense or Tenacity #CrossSpeedSetOffensePrimary #CrossSpeedSetTenacityPrimary #CrossHealthSetOffensePrimary #CrossHealthSetTenacityPrimary 
+ - **Circle**: Protection #CircleSpeedSetProtectionPrimary #CircleHealthSetHealthPrimary 
  - **Secondary Priorities**
-	 1. 
-	 2. 
-	 3. 
-	 4. 
+	 1. Speed
+	 2. Offense %
+	 3. Protection %
+	 4. Health %
 
 ## Recommended Zetas
 

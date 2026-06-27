@@ -2,7 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - General Grievous]]
+[[Squad Notes - General Grievous#Squad 1 - OG General Grievous|OG General Grievous]]
+[[Squad Notes - Doctor Aphra#Squad 1 - Standard 5v5|Dr. Aphra Standard 5v5]]
 
 ## Gameplay Notes
 

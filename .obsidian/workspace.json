@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWGOH/Squad Notes - Cobb Vanth.md",
+                "file": "SWGOH/Squad Notes - The Stranger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Squad Notes - Cobb Vanth"
-            }
-          },
-          {
-            "id": "f603a4dd57e33448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWGOH/Character - Cobb Vanth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character - Cobb Vanth"
+              "title": "Squad Notes - The Stranger"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWGOH/Character - Cobb Vanth.md",
+                "file": "SWGOH/Character - CC-1119 Appo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character - Cobb Vanth"
+              "title": "Outline of Character - CC-1119 Appo"
             }
           }
         ],
@@ -183,35 +168,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f603a4dd57e33448",
+  "active": "e176743d9ee21fff",
   "lastOpenFiles": [
-    "SWGOH/Character - Chief Nebit.md",
-    "SWGOH/Character - Cobb Vanth.md",
-    "SWGOH/Squad Notes - Cobb Vanth.md",
-    "SWGOH/Squad Notes - Tusken Raiders.md",
-    "SWGOH/Character - Tusken Warrior.md",
-    "Character - Tusken Chieftain.md",
-    "SWGOH/Character - Tusken Raider.md",
-    "SWGOH/Character - URoRRuRRR.md",
-    "SWGOH/Character - Tusken Shaman.md",
-    "SWGOH/Character - Coruscant Underworld Police.md",
-    "SWGOH/Character - Jawa Scavenger.md",
-    "SWGOH/Character Template.md",
-    "SWGOH/Squad Notes - Jawas.md",
-    "SWGOH/Character - Jawa.md",
-    "SWGOH/Character - Jawa Engineer.md",
-    "SWGOH/Character - Dathcha.md",
+    "SWGOH/Character - Visas Marr.md",
+    "SWGOH/Character - The Stranger.md",
+    "SWGOH/Squad Notes - The Stranger.md",
+    "SWGOH/Character - Starkiller.md",
+    "SWGOH/Character - Maul (Hate-Fueled).md",
     "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
-    "SWGOH/Squad Notes - Pirate King Hondo.md",
-    "SWGOH/Squad Notes - Great Mothers.md",
-    "SWGOH/Squad Notes - General Grievous.md",
-    "SWGOH/Squad Notes - General Skywalker.md",
-    "SWGOH/Squad Notes - Cere Junda.md",
-    "Cleaning/How Often You Should Wash Your Stuff.md",
-    "Pets/Cat Maintenance Tips.md",
-    "Laundry",
-    "Studying/Getting Familiar with Reading Material.md",
+    "SWGOH/Squad Notes - Baylan Skoll.md",
+    "SWGOH/Squad Notes - Gungans.md",
+    "SWGOH/Squad Notes - Jawas.md",
+    "SWGOH/Character - Marrok.md",
+    "SWGOH/Character - Dengar.md",
+    "SWGOH/Character - Dash Rendar.md",
+    "SWGOH/Character - Shin Hati.md",
+    "SWGOH/Character - Baylan Skoll.md",
     "SWGOH/Mod Notes.md",
+    "SWGOH/Character - Queen Amidala.md",
+    "SWGOH/Character - 0-0-0.md",
+    "SWGOH/Squad Notes - Queen Amidala.md",
+    "SWGOH/Character - Shaak Ti.md",
+    "SWGOH/Character - Echo.md",
+    "SWGOH/Character - Padawan Obi-Wan.md",
+    "SWGOH/Character - Master Qui-Gon.md",
+    "SWGOH/Squad Notes - Maz Kanata.md",
+    "SWGOH/Character Template.md",
+    "SWGOH/Character - Omega (Fugitive).md",
+    "SWGOH/Character - Cobb Vanth.md",
+    "Laundry",
     "Studying",
     "House",
     "Cooking/Recipes/Breakfast",
