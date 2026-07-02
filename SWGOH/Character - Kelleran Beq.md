@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Kelleran Beq|Kelleran Beq-led Jedi]]
+[[Squad Notes - Galactic Republic|Kelleran Beq-led Jedi]]
 
 ## Gameplay Notes
 

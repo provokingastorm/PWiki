@@ -6,7 +6,7 @@ SQUAD_LEADER_HERE (Lead)
 **Counters**
  - 
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**

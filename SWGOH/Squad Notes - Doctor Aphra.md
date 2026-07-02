@@ -1,3 +1,4 @@
+Various squads involving lead by Dr Aphra.
 
 ## Squad 1 - Standard 5v5
 [[Character - Doctor Aphra]] (Lead)
@@ -9,7 +10,7 @@
 **Counters**
  - 
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**

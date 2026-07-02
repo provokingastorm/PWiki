@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Iden Versio Troopers]]
+[[Squad Notes - Imperial Troopers]]
 
 ## Gameplay Notes
 

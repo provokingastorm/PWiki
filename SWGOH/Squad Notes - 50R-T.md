@@ -1,3 +1,4 @@
+Various squads involving lead by 50R-T.
 
 ## Squad 1 - Droid Leftovers
 [[Character - 50R-T|50R-T]] (Lead)
@@ -9,7 +10,7 @@
 **Counters**
  - 
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**

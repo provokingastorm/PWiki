@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Admiral Trench]]
+[[Squad Notes - Separatist]]
 
 ## Gameplay Notes
 

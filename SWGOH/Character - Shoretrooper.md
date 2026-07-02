@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Iden Versio Troopers|Iden Versio Trooper Squads]]
-[[Squad Notes - Sith Eternal Emperor#Squad 4 - JMK Killer|JMK Counter]]
+[[Squad Notes - Imperial Troopers|Iden Versio Trooper Squads]]
+[[Squad Notes - Sith#Squad 4 - JMK Killer|JMK Counter]]
 
 ## Gameplay Notes
 

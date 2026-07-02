@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Qui-Gon Jinn]]
+[[Squad Notes - Jedi]]
 
 ## Gameplay Notes
 

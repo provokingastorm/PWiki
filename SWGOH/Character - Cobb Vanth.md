@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Cobb Vanth#Squad 1 - Constables Jawa Edition|Constables Jawa Edition]]
-[[Squad Notes - Cobb Vanth#Squad 2 - Constables Mixed Tatooine|Constables Mixed Tatooine]]
+[[Squad Notes - Constables#Squad 1 - Constables Jawa Edition|Constables Jawa Edition]]
+[[Squad Notes - Constables#Squad 2 - Constables Mixed Tatooine|Constables Mixed Tatooine]]
 
 ## Gameplay Notes
 

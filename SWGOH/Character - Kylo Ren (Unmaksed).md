@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Supreme Leader Kylo Ren|SLKR Squads]]
-[[Squad Notes - Cere Junda|Unaligned Force User Squads]]
+[[Squad Notes - First Order|SLKR Squads]]
+[[Squad Notes - Unaligned Force Users|Unaligned Force User Squads]]
 
 ## Gameplay Notes
 

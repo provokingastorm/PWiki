@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Jabba The Hutt]]
+[[Squad Notes - Hutt Cartel]]
 
 ## Gameplay Notes
 

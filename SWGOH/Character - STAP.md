@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - General Grievous]]
+[[Squad Notes - Separatist]]
 
 ## Gameplay Notes
 

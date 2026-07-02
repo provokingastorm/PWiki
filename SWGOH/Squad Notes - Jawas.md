@@ -1,3 +1,4 @@
+Various squads involving all or mostly characters from the Jawa faction.
 
 ## Squad 1 - Standard
 [[Character - Chief Nebit|Chief Nebit]] (Lead)
@@ -9,7 +10,7 @@
 **Counters**
  - 
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**

@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - General Veers Imperial Troopers]]
+[[Squad Notes - Imperial Troopers]]
 
 ## Gameplay Notes
 

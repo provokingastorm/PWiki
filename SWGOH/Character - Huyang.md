@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Ahsoka Tano (Galactic Legend)]]
+[[Squad Notes - Spectre]]
 
 ## Gameplay Notes
 

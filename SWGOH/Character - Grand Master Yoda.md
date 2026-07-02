@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Jedi Knight Revan|JKR-led squads]]
-[[Squad Notes - Jedi Knight Luke Skywalker|JKL-led Jedi]]
+[[Squad Notes - Old Republic|JKR-led squads]]
+[[Squad Notes - Jedi|JKL-led Jedi]]
 
 ## Gameplay Notes
 

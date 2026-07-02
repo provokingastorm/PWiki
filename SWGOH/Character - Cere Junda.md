@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Cere Junda|Unaligned Force User Squads]]
+[[Squad Notes - Unaligned Force Users|Unaligned Force User Squads]]
 
 ## Gameplay Notes
 

@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Sith Eternal Emperor|SEE Squads]]
-[[Squad Notes - Darth Malgus|Darth Malgus Squads]]
+[[Squad Notes - Sith|SEE Squads]]
+[[Squad Notes - Sith Empire|Darth Malgus Squads]]
 
 ## Gameplay Notes
 

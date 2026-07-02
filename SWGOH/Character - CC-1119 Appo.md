@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Lord Vader]]
+[[Squad Notes - Empire]]
 
 ## Gameplay Notes
 

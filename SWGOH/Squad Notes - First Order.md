@@ -1,5 +1,6 @@
+Various squads involving all or mostly characters from the First Order faction.
 
-## Squad 1 - Standard 5v5
+## Squad 1 - SLKR Standard 5v5
 [[Character - Supreme Leader Kylo Ren|Supreme Leader Kylo Ren]] (Lead)
 [[Character - Kylo Ren (Unmaksed)|Kylo Ren (Unmaksed)]]
 [[Character - General Hux|General Hux]]
@@ -9,7 +10,7 @@
 **Counters**
  - 
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**
@@ -22,9 +23,9 @@
 [[Character - Supreme Leader Kylo Ren|Supreme Leader Kylo Ren]] (Lead)
 
 **Counters**
- - [[Squad Notes - Sith Eternal Emperor#Squad 1 - WAT SEE|Standard SEE Squads]]
+ - [[Squad Notes - Sith#Squad 1 - WAT SEE|Standard SEE Squads]]
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**

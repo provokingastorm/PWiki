@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Darth Malgus|Darth Malgus]]
+[[Squad Notes - Sith Empire|Darth Malgus]]
 
 ## Gameplay Notes
 

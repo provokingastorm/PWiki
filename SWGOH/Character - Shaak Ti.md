@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Shaak Ti|Shaak-led 501st]]
-[[Squad Notes - Queen Amidala#Squad 1 - Standard 5v5|Queen Amidala]]
+[[Squad Notes - 501st|Shaak-led 501st]]
+[[Squad Notes - Galactic Republic#Squad 1 - Standard 5v5|Queen Amidala]]
 
 ## Gameplay Notes
 

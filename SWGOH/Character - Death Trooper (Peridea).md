@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Great Mothers]]
+[[Squad Notes - Nightsisters]]
 
 ## Gameplay Notes
 

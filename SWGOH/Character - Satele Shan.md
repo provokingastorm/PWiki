@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Satele Shan#Squad 1 - Standard 5v5|Satele Shan Old Republic]]
+[[Squad Notes - Old Republic#Squad 1 - Standard 5v5|Satele Shan Old Republic]]
 
 ## Gameplay Notes
 

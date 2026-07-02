@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Sith Eternal Emperor|SEE Squads]]
-[[Squad Notes - Darth Traya|Darth Treya Squads]]
+[[Squad Notes - Sith|SEE Squads]]
+[[Squad Notes - Sith|Darth Treya Squads]]
 
 ## Gameplay Notes
 

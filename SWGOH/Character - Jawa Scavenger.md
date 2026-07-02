@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Cobb Vanth#Squad 1 - Constables Jawa Edition|Constables Jawa Edition]]
+[[Squad Notes - Constables#Squad 1 - Constables Jawa Edition|Constables Jawa Edition]]
 [[Squad Notes - Jawas#Squad 1 - Standard|Jawas]]
 
 ## Gameplay Notes

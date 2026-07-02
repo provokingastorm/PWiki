@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Jedi Master Luke Skywalker|JML Teams]]
+[[Squad Notes - Jedi|JML Teams]]
 
 ## Gameplay Notes
 

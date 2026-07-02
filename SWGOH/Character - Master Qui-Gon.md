@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Queen Amidala#Squad 1 - Standard 5v5|Queen Amidala]]
+[[Squad Notes - Galactic Republic#Squad 1 - Standard 5v5|Queen Amidala]]
 
 ## Gameplay Notes
 

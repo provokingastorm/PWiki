@@ -1,4 +1,6 @@
-## Squad 1 - Standard 5v5
+Various squads involving all or mostly characters from the Unaligned Force Users faction.
+
+## Squad 1 - Standard GAC 5v5
 [[Character - Cere Junda|Cere Junda]] (Lead)
 [[Character - Taron Malicos|Taron Malicos]]
 [[Character - Ahsoka Tano (Fulcrum)|Ahsoka Tano (Fulcrum)]]
@@ -6,10 +8,10 @@
 [[Character - Kylo Ren (Unmaksed)|Kylo Ren (Unmaksed)]]
 
 **Counters**
- - 
+ - [[Squad Notes - Inquisitors#Squad 2 - Standard 5v5|Third Sister-led Inquisitors]]
 
-**Hard Counters**
- - [[Squad Notes - Sith Eternal Emperor|SEE Squads]]
+**Hard Countered By**
+ - [[Squad Notes - Sith|SEE Squads]]
 
 **Notes**
  - 

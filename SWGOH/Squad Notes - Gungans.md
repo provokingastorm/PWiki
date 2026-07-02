@@ -1,3 +1,4 @@
+Various squads involving all or mostly characters from the Gungan faction.
 
 ## Squad 1 - Standard
 [[Character - Boss Nass|Boss Nass]] (Lead)
@@ -9,7 +10,7 @@
 **Counters**
  - 
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**

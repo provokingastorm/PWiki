@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Emperor Palpatine#Squad 1 - Palpatine's End|Palpatine's End]]
+[[Squad Notes - Empire#Squad 1 - Palpatine's End|Palpatine's End]]
 
 ## Gameplay Notes
 

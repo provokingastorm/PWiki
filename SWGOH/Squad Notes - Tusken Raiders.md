@@ -1,3 +1,4 @@
+Various squads involving all or mostly characters from the Tusken Raider faction.
 
 ## Squad 1 - Standard Squad
 [[Character - Tusken Chieftain|Tusken Chieftain]] (Lead)
@@ -9,7 +10,7 @@
 **Counters**
  - 
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**

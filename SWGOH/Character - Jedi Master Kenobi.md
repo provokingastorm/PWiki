@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Jedi Master Kenobi|Jedi Master Kenobi Squads]]
+[[Squad Notes - Galactic Republic|Jedi Master Kenobi Squads]]
 
 ## Gameplay Notes
 

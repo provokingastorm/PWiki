@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Darth Traya|Darth Traya]]
+[[Squad Notes - Sith|Darth Traya]]
 
 ## Gameplay Notes
 

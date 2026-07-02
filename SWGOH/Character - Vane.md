@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Pirate King Hondo]]
+[[Squad Notes - Pirates]]
 
 ## Gameplay Notes
 

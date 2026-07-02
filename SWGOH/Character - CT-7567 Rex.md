@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - General Skywalker|GAS-led 501st]]
-[[Squad Notes - Shaak Ti|Shaak-led 501st]]
+[[Squad Notes - 501st|GAS-led 501st]]
+[[Squad Notes - 501st|Shaak-led 501st]]
 
 ## Gameplay Notes
 

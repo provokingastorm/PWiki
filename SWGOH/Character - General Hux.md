@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Supreme Leader Kylo Ren]]
+[[Squad Notes - First Order]]
 
 ## Gameplay Notes
 

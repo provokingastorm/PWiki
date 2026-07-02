@@ -8,17 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e176743d9ee21fff",
+            "id": "29cf170371104922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWGOH/Character - Bastila Shan (Fallen).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character - Bastila Shan (Fallen)"
+            }
+          },
+          {
+            "id": "2c358fa7770a092a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SWGOH/Squad Notes - The Stranger.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Squad Notes - The Stranger"
+            }
+          },
+          {
+            "id": "921dc5f68afbe723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWGOH/Squad Notes - Jedi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Squad Notes - Jedi"
             }
           }
         ]
@@ -168,34 +206,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e176743d9ee21fff",
+  "active": "1d990e70d2539708",
   "lastOpenFiles": [
-    "SWGOH/Character - Visas Marr.md",
-    "SWGOH/Character - The Stranger.md",
+    "SWGOH/Squad Notes - Sith Empire.md",
+    "SWGOH/Squad Notes - Mercenaries.md",
+    "SWGOH/Squad Notes - ISB.md",
+    "SWGOH/Squad Notes - Jedi Vanguards.md",
+    "SWGOH/Squad Notes - Doctor Aphra.md",
+    "SWGOH/Squad Notes - Bad Batch.md",
+    "SWGOH/Squad Notes - 50R-T.md",
+    "SWGOH/Squad Notes - Galactic Republic.md",
     "SWGOH/Squad Notes - The Stranger.md",
-    "SWGOH/Character - Starkiller.md",
-    "SWGOH/Character - Maul (Hate-Fueled).md",
-    "SWGOH/Squad Notes - Grand Inquisitor Inquisitors.md",
-    "SWGOH/Squad Notes - Baylan Skoll.md",
-    "SWGOH/Squad Notes - Gungans.md",
+    "SWGOH/Squad Notes - Jedi.md",
+    "SWGOH/Squad Notes - Kelleran Beq.md",
+    "SWGOH/Squad Notes - Qui-Gon Jinn.md",
     "SWGOH/Squad Notes - Jawas.md",
-    "SWGOH/Character - Marrok.md",
-    "SWGOH/Character - Dengar.md",
-    "SWGOH/Character - Dash Rendar.md",
-    "SWGOH/Character - Shin Hati.md",
-    "SWGOH/Character - Baylan Skoll.md",
-    "SWGOH/Mod Notes.md",
-    "SWGOH/Character - Queen Amidala.md",
-    "SWGOH/Character - 0-0-0.md",
-    "SWGOH/Squad Notes - Queen Amidala.md",
-    "SWGOH/Character - Shaak Ti.md",
-    "SWGOH/Character - Echo.md",
-    "SWGOH/Character - Padawan Obi-Wan.md",
-    "SWGOH/Character - Master Qui-Gon.md",
-    "SWGOH/Squad Notes - Maz Kanata.md",
-    "SWGOH/Character Template.md",
-    "SWGOH/Character - Omega (Fugitive).md",
-    "SWGOH/Character - Cobb Vanth.md",
+    "SWGOH/Squad Notes - Tusken Raiders.md",
+    "SWGOH/Squad Notes - 501st.md",
+    "SWGOH/Squad Notes - First Order.md",
+    "SWGOH/Squad Notes - Shaak Ti.md",
+    "SWGOH/Squad Notes - Darth Bane.md",
+    "SWGOH/Squad Notes - Inquisitors.md",
+    "SWGOH/Squad Notes - Third Sister.md",
+    "SWGOH/Character - Third Sister.md",
+    "SWGOH/Character - Ninth Sister.md",
+    "SWGOH/Character - Inquisitor Barriss.md",
+    "SWGOH/Character - Eighth Brother.md",
+    "SWGOH/Character - Grand Inquisitor.md",
+    "SWGOH/Squad Notes - Sith.md",
     "Laundry",
     "Studying",
     "House",

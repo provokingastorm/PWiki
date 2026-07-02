@@ -1,3 +1,4 @@
+Various squads involving all or mostly characters from the Hutt Cartel faction.
 
 ## Squad 1 - Standard 5v5
 [[Character - Jabba The Hutt|Jabba The Hutt]] (Lead)
@@ -9,8 +10,8 @@
 **Counters**
  - 
 
-**Hard Counters**
- - [[Squad Notes - Sith Eternal Emperor#Squad 3 - Rule of Two|SEE and Darth Bane]]
+**Hard Countered By**
+ - [[Squad Notes - Sith#Squad 3 - Rule of Two|SEE and Darth Bane]]
 
 **Notes**
  - 

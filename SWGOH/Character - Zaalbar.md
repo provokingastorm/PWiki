@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Darth Revan#Squad 1 - Old Republic 3v3|Darth Revan Old Republic 3v3]]
+[[Squad Notes - Old Republic#Squad 1 - Old Republic 3v3|Darth Revan Old Republic 3v3]]
 
 ## Gameplay Notes
 

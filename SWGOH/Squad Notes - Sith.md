@@ -1,23 +1,24 @@
+Various squads involving all or mostly characters from the Sith faction.
 
-## Squad 1 - WAT SEE
+## Squad 1 - SEE with WAT
 [[Character - Sith Eternal Emperor|Sith Eternal Emperor]] (Lead)
 [[Character - Wat Tambor|Wat Tambor]]
 
 **Counters**
- - [[Squad Notes - Jedi Master Luke Skywalker|Jedi Master Luke Squads]]
+ - [[Squad Notes - Jedi|Jedi Master Luke Squads]]
 	 - Targets to link: [[Character - Jedi Master Luke Skywalker|JML]] and [[Character - Jedi Knight Luke Skywalker|JKL]]
- - [[Squad Notes - Darth Malgus|Darth Malgus Squads]]
+ - [[Squad Notes - Sith Empire|Darth Malgus Squads]]
 	 - Targets to link: [[Character - Darth Malgus|Darth Malgus]] and [[Character - Darth Revan|Darth Revan]]
- - [[Squad Notes - General Skywalker|GAS Squads]]
+ - [[Squad Notes - 501st|GAS Squads]]
 	 - Targets to link: [[Character - General Skywalker|GAS]] and [[Character - CT-5555 Fives|Fives]]
- - [[Squad Notes - Darth Traya|Darth Traya Squads]]
+ - [[Squad Notes - Sith|Darth Traya Squads]]
 	 - Targets to link: [[Character - Darth Traya|Darth Traya]] and [[Character - Savage Opress|Savage Opress]]
- - [[Squad Notes - Cere Junda|Cere Junda Squads]]
+ - [[Squad Notes - Unaligned Force Users|Cere Junda Squads]]
 	 - Targets to link: [[Character - Kylo Ren (Unmaksed)|KRU]] and [[Character - Taron Malicos|Taron Malicos]]
 	 - If no KRU on team, link [[Character - Taron Malicos|Taron Malicos]] and [[Character - Ahsoka Tano (Fulcrum)|Fulcrum]]
 
-**Hard Counters**
- - [[Squad Notes - Supreme Leader Kylo Ren|SLKR Squads]]
+**Hard Countered By**
+ - [[Squad Notes - First Order|SLKR Squads]]
 
 **Notes**
  - Wat Tambor applies his "Mass Manufacture" ability to Sith Eternal Emperor for #ProtectionRecovery and dispels all debuffs. This is based on Sith Eternal Emperor's kit that increases his protection as the match continues.
@@ -26,7 +27,7 @@
 "How to Mod, Zeta and Use Sith Eternal Emperor in SWGOH" by Calvin Awesome
 https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 
-## Squad 2 - GAC Defensive SEE
+## Squad 2 - SEE GAC Defensive
 [[Character - Sith Eternal Emperor|Sith Eternal Emperor]] (Lead)
 [[Character - Darth Malak|Darth Malak]]
 [[Character - Darth Sidious|Darth Sidious]]
@@ -35,9 +36,9 @@ https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 
 **Counters**
  - [[Character - Wampa|Wampa]]
- - [[Squad Notes - Supreme Leader Kylo Ren#Squad 2 - SEE GAC Counter|SLKR Solo]]
+ - [[Squad Notes - First Order#Squad 2 - SEE GAC Counter|SLKR Solo]]
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**
@@ -49,15 +50,15 @@ https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 "How to Mod, Zeta and Use Sith Eternal Emperor in SWGOH" by Calvin Awesome
 https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 
-## Squad 3 - Rule of Two
+## Squad 3 - SEE Rule of Two
 [[Character - Sith Eternal Emperor|Sith Eternal Emperor]] (Lead)
 [[Character - Darth Bane|Darth Bane]]
 
 **Counters**
- - [[Squad Notes - Ahsoka Tano#Squad 2 - Standard 3v3|3v3 GAC GL Ahsoka Tano]]
- - [[Squad Notes - Jabba The Hutt|Jabba Squads]]
+ - [[Squad Notes - Spectre#Squad 2 - Standard GAC 3v3|3v3 GAC GL Ahsoka Tano]]
+ - [[Squad Notes - Hutt Cartel|Jabba Squads]]
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**
@@ -67,7 +68,7 @@ https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 "How to Mod, Zeta and Use Sith Eternal Emperor in SWGOH" by Calvin Awesome
 https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 
-## Squad 4 - JMK Killer
+## Squad 4 - SEE JMK Killer
 [[Character - Sith Eternal Emperor|Sith Eternal Emperor]] (Lead)
 [[Character - Grand Admiral Thrawn|Grand Admiral Thrawn]]
 [[Character - Geonosian Brood Alpha|Geonosian Brood Alpha]]
@@ -75,9 +76,9 @@ https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 [[Character - Shoretrooper|Shoretrooper]]
 
 **Counters**
- - [[Squad Notes - Jedi Master Kenobi|Jedi Master Kenobi Squads]]
+ - [[Squad Notes - Galactic Republic|Jedi Master Kenobi Squads]]
 
-**Hard Counters**
+**Hard Countered By**
  - 
 
 **Notes**
@@ -89,3 +90,21 @@ https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
 **Links**
 "How to Mod, Zeta and Use Sith Eternal Emperor in SWGOH" by Calvin Awesome
 https://www.youtube.com/watch?v=4X2i5lHo1bg&ab_channel=CalvinAwesome
+
+## Squad 5 - Darth Traya Standard 5v5
+[[Character - Darth Traya|Darth Treya]] (Lead)
+[[Character - Darth Nihilus|Darth Nihilus]]
+[[Character - Darth Sion|Darth Sion]]
+[[Character - Savage Opress|Savage Opress]]
+[[Character - Darth Talon|Darth Talon]]
+
+**Counters**
+ - 
+
+**Hard Countered By**
+ - [[Squad Notes - Sith|SEE Squads]]
+
+**Notes**
+ - 
+
+**Links**

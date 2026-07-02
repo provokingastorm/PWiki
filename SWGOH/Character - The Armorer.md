@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Sith Eternal Emperor#Squad 4 - JMK Killer|JMK Counter]]
+[[Squad Notes - Sith#Squad 4 - JMK Killer|JMK Counter]]
 
 ## Gameplay Notes
 

@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - General Skywalker]]
+[[Squad Notes - 501st]]
 
 ## Gameplay Notes
 

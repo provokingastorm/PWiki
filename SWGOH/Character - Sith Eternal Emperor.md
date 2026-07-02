@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Sith Eternal Emperor|SEE Squads]]
+[[Squad Notes - Sith|SEE Squads]]
 
 ## Gameplay Notes
 
