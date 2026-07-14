@@ -1,4 +1,5 @@
 ### Do's
+
  - Always vacuum the carpet or rug first.
  - Pre-treat the carpet or rug first with the cleaner for 10-15 minutes.
  - Use water only in the wet vacuum (assuming you pre-treated the carpet or rug).
@@ -6,6 +7,7 @@
  - Turn on a fan and/or open windows to speed up the drying process.
 
 ### Don't's
+
  - 
 
 ### Links

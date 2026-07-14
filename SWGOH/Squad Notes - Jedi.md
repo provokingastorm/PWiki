@@ -30,7 +30,7 @@ Various squads involving all or mostly characters from the Jedi faction.
  - 
 
 **Hard Countered By**
- - [[Squad Notes - Inquisitors|Grand Inquisitor Inquisitors]]
+ - [[Squad Notes - Inquisitorius|Grand Inquisitor Inquisitors]]
 
 **Notes**
  - 
@@ -48,7 +48,7 @@ Various squads involving all or mostly characters from the Jedi faction.
  - 
 
 **Hard Countered By**
- - [[Squad Notes - Inquisitors#Squad 1 - Grand Inquisitor-led Standard 5v5|Grand Inquisitor Inquisitors]]
+ - [[Squad Notes - Inquisitorius#Squad 1 - Grand Inquisitor-led Standard 5v5|Grand Inquisitor Inquisitors]]
 
 **Notes**
  - 

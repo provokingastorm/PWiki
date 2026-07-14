@@ -5,7 +5,7 @@ Various squads involving lead by Darth Bane.
 [[Character - Count Dooku|Count Dooku]]
 
 **Counters**
- - [[Squad Notes - Inquisitors#Squad 2 - Third Sister-led Standard 5v5|Third Sister-led Inquisitors]]
+ - [[Squad Notes - Inquisitorius#Squad 2 - Third Sister-led Standard 5v5|Third Sister-led Inquisitors]]
 
 **Hard Countered By**
  - 

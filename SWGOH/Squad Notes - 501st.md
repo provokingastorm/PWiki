@@ -30,7 +30,7 @@ Various squads involving all or mostly characters from the 501st faction.
  - 
 
 **Hard Countered By**
- - [[Squad Notes - Inquisitors|Grand Inquisitor Inquisitors]]
+ - [[Squad Notes - Inquisitorius|Grand Inquisitor Inquisitors]]
 
 **Notes**
  - 

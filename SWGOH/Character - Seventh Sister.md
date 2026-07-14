@@ -2,7 +2,7 @@
 
 ## Common Squads
 
-[[Squad Notes - Inquisitors]]
+[[Squad Notes - Inquisitorius]]
 
 ## Gameplay Notes
 

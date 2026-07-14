@@ -46,7 +46,7 @@ TODO - Fill out
  - 
 
 **Hard Countered By**
- - [[Squad Notes - Inquisitors#Squad 1 - Grand Inquisitor-led Standard 5v5|Grand Inquisitor Inquisitors]]
+ - [[Squad Notes - Inquisitorius#Squad 1 - Grand Inquisitor-led Standard 5v5|Grand Inquisitor Inquisitors]]
 
 **Notes**
  - 

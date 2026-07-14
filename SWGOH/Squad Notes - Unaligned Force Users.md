@@ -8,7 +8,7 @@ Various squads involving all or mostly characters from the Unaligned Force Users
 [[Character - Kylo Ren (Unmaksed)|Kylo Ren (Unmaksed)]]
 
 **Counters**
- - [[Squad Notes - Inquisitors#Squad 2 - Standard 5v5|Third Sister-led Inquisitors]]
+ - [[Squad Notes - Inquisitorius#Squad 2 - Standard 5v5|Third Sister-led Inquisitors]]
 
 **Hard Countered By**
  - [[Squad Notes - Sith|SEE Squads]]

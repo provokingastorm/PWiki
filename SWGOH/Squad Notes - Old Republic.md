@@ -1,6 +1,6 @@
 Various squads involving all or mostly characters from the Old Republic faction.
 
-## Squad 1 - Satele Shane GAC 5v5
+## Squad 1 - Satele Shan GAC 5v5
 [[Character - Satele Shan|Satele Shan]] (Lead)
 [[Character - Jedi Knight Revan|Jedi Knight Revan]]
 [[Character - Bastila Shan|Bastila Shan]]
@@ -8,7 +8,7 @@ Various squads involving all or mostly characters from the Old Republic faction.
 [[Character - Juhani|Juhani]]
 
 **Counters**
- - 
+ - [[Squad Notes - Empire#Squad 1 - Lord Vader Standard 5v5|Lord Vader squads]]
 
 **Hard Countered By**
  - 
@@ -30,7 +30,7 @@ Various squads involving all or mostly characters from the Old Republic faction.
  - 
 
 **Hard Countered By**
- - [[Squad Notes - Inquisitors|Grand Inquisitor Inquisitors]]
+ - [[Squad Notes - Inquisitorius|Grand Inquisitor Inquisitors]]
 
 **Notes**
  - 

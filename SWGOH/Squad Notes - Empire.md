@@ -11,7 +11,7 @@ Various squads involving all or mostly characters from the Empire faction.
  - 
 
 **Hard Countered By**
- - 
+ - [[Squad Notes - Old Republic#Squad 1 - Satele Shan GAC 5v5|Satele Shan]]
 
 **Notes**
  - When trying to take out this team, target CX-2 first, then Disguised Clone. 

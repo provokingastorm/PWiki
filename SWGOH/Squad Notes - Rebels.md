@@ -1,6 +1,44 @@
 Various squads involving all or mostly characters from the Rebel faction.
 
-## Squad 1 - Andor Rebels
+## Squad 1 - Leia GAC 5v5 Offense
+[[Character - Leia Organa|Leia Organa]] (Lead)
+[[Character - Captain Drogan|Captain Drogan]]
+[[Character - R2-D2|R2-D2]]
+[[Character - Admiral Raddus|Admiral Raddus]]
+[[Character - Jyn Erso|Jyn Erso]]
+
+**Counters**
+ - [[Squad Notes - Spectre#Squad 1 - Standard 5v5|Ahsoka Tano-led Spectre squads]]
+	 - Focus order: Huyang, Padawan Sabine Wren, General Hera Syndula, Ezra Bridger (Exile), then Ahsoka Tano.
+
+**Hard Countered By**
+ - 
+
+**Notes**
+ - 
+
+**Links**
+
+## Squad 2 - Leia GAC 5v5 Defense
+[[Character - Leia Organa|Leia Organa]] (Lead)
+[[Character - Captain Drogan|Captain Drogan]]
+[[Character - R2-D2|R2-D2]]
+[[Character - Mon Mothma|Mon Mothma]]
+[[Character - Baze Malbus|Baze Malbus]]
+
+**Counters**
+ - 
+
+**Hard Countered By**
+ - 
+
+**Notes**
+ - 
+
+**Links**
+
+
+## Squad 3 - Andor Rebels 5v5
 [[Character - Cassian Andor (Undercover)|Cassian Andor (Undercover)]] (Lead)
 [[Character - Vel Sartha|Vel Sartha]]
 [[Character - Cinta Kaz|Cinta Kaz]]
@@ -19,7 +57,7 @@ Various squads involving all or mostly characters from the Rebel faction.
 **Links**
 
 
-## Squad 2 - Standard AdRad 5v5 Squad
+## Squad 4 - Standard AdRad 5v5
 [[Character - Admiral Raddus|Admiral Raddus]] (Lead)
 [[Character - Cassian Andor|Cassian Andor]]
 [[Character - Jyn Erso|Jyn Erso]]
@@ -32,7 +70,7 @@ Various squads involving all or mostly characters from the Rebel faction.
  - [[Squad Notes - Imperial Troopers|Veers-led Imperial Troopers]]
 	 - Defaults all variations.
 	 - Admiral Raddus applies #Daze whenever the enemy team gains turn meter, which is crucial to the OG Imperial Trooper team.
- - [[Squad Notes - Inquisitors#Squad 1 - Grand Inquisitor-led Standard 5v5|Grand Inquisitor-led Inquisitors]]
+ - [[Squad Notes - Inquisitorius#Squad 1 - Grand Inquisitor-led Standard 5v5|Grand Inquisitor-led Inquisitors]]
 	 - Assuming no Reva in the squad.
 
 **Hard Countered By**
@@ -45,7 +83,7 @@ Various squads involving all or mostly characters from the Rebel faction.
 "How to Zeta, Mod, Omicron, & Use Rogue One in SWGOH" by Calvin Awesome
 https://www.youtube.com/watch?v=w7gZdy3hmUQ&ab_channel=CalvinAwesome
 
-## Squad 3 - Standard AdRad 3v3 Squad
+## Squad 5 - AdRad GAC 3v3
 [[Character - Admiral Raddus|Admiral Raddus]] (Lead)
 [[Character - Cassian Andor|Cassian Andor]]
 [[Character - Jyn Erso|Jyn Erso]]

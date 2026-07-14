@@ -2,8 +2,8 @@
 
 ## Common Squads
 
-[[Squad Notes - Inquisitors]]
-[[Squad Notes - Inquisitors#Squad 2 - Third Sister-led Standard 5v5|Third Sister Standard 5v5]]
+[[Squad Notes - Inquisitorius]]
+[[Squad Notes - Inquisitorius#Squad 2 - Third Sister-led Standard 5v5|Third Sister Standard 5v5]]
 
 ## Gameplay Notes
 

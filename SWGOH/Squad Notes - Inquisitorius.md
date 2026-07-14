@@ -13,6 +13,7 @@ Various squads involving all or mostly characters from the Inquisitorius faction
 **Hard Countered By**
  - [[Squad Notes - Darth Bane|Darth Bane-led Rule of Two]]
  - [[Squad Notes - Unaligned Force Users#Squad 1 - Standard GAC 5v5|Unaligned Force Users]]
+ - [[Squad Notes - First Order#Squad 1 - SLKR Standard 5v5|Supreme Leader Kylo Ren]]
 
 **Notes**
  - Use on defense in GAC. 

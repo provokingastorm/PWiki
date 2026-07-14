@@ -1,8 +1,9 @@
-**SWGOH.gg**: https://swgoh.gg/units/third-sister/
+**SWGOH.gg**: https://swgoh.gg/units/r2-d2/
 
 ## Common Squads
 
-[[Squad Notes - Inquisitorius#Squad 2 - Third Sister-led Standard 5v5|Third Sister Standard 5v5]]
+[[Squad Notes - Rebels#Squad 1 - Leia GAC 5v5 Offense|GL Leia-led GAC Offense]]
+[[Squad Notes - Rebels#Squad 2 - Leia GAC 5v5 Defense|GL Leia-led GAC Defense]]
 
 ## Gameplay Notes
 
