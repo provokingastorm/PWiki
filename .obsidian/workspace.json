@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cleaning/Cleaning Blinds.md",
+                "file": "Software Development/Game Development/Game Engines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cleaning Blinds"
+              "title": "Game Engines"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWGOH/Character - CC-1119 Appo.md",
+                "file": "Software Development/Game Development/Game Engines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character - CC-1119 Appo"
+              "title": "Outline of Game Engines"
             }
           }
         ],
@@ -185,8 +185,11 @@
   },
   "active": "ece63218448676dd",
   "lastOpenFiles": [
-    "Cleaning/Cleaning Carpets.md",
+    "Conquest Notes.md",
+    "Software Development/Game Development/Game Engines.md",
+    "Studying/Getting Familiar with Reading Material.md",
     "Cleaning/Cleaning Blinds.md",
+    "Cleaning/Cleaning Carpets.md",
     "Cleaning/Cleaning Reusable Water Bottles.md",
     "Cleaning/Cleaning Electronics.md",
     "Cleaning/Cleaning Oven.md",
@@ -208,9 +211,6 @@
     "SWGOH/Character Template.md",
     "SWGOH/Squad Notes - Jedi.md",
     "SWGOH/Character - Bastila Shan (Fallen).md",
-    "SWGOH/Squad Notes - Sith Empire.md",
-    "SWGOH/Squad Notes - Mercenaries.md",
-    "SWGOH/Squad Notes - ISB.md",
     "Laundry",
     "Studying",
     "House",
