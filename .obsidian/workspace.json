@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xbox/TMNT Mutants In Manhattan Achievements.md",
+                "file": "Studying/Getting Familiar with Reading Material.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TMNT Mutants In Manhattan Achievements"
-            }
-          },
-          {
-            "id": "ece63218448676dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Development/Game Development/Game Engines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Engines"
+              "title": "Getting Familiar with Reading Material"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,11 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ece63218448676dd",
+  "active": "29cf170371104922",
   "lastOpenFiles": [
-    "Conquest Notes.md",
     "Software Development/Game Development/Game Engines.md",
     "Studying/Getting Familiar with Reading Material.md",
+    "Xbox/TMNT Mutants In Manhattan Achievements.md",
+    "Media/Movie Purchasing.md",
+    "Media/Movie Notes/Pleasantville.md",
+    "Media/Movie Notes",
+    "Media/Explore Music.md",
+    "SWGOH/Conquest Notes.md",
     "Cleaning/Cleaning Blinds.md",
     "Cleaning/Cleaning Carpets.md",
     "Cleaning/Cleaning Reusable Water Bottles.md",
@@ -195,7 +185,6 @@
     "Cleaning/Cleaning Oven.md",
     "Cleaning/Cleaning With Bleach.md",
     "Cleaning/Cleaning Recipes.md",
-    "Xbox/TMNT Mutants In Manhattan Achievements.md",
     "Cooking/Recipes/Recipe - Spice Ground Lamb.md",
     "Cooking/Recipes/Dinner/Greek Chicken and Potatoes.md",
     "SWGOH/Mod Notes.md",
@@ -208,9 +197,6 @@
     "SWGOH/Character - R2-D2.md",
     "SWGOH/Character - Leia Organa.md",
     "SWGOH/Character - Captain Drogan.md",
-    "SWGOH/Character Template.md",
-    "SWGOH/Squad Notes - Jedi.md",
-    "SWGOH/Character - Bastila Shan (Fallen).md",
     "Laundry",
     "Studying",
     "House",
@@ -222,7 +208,6 @@
     "Cleaning/New folder",
     "Pets",
     "Software Development",
-    "Tech",
-    "Software Development/Game Development"
+    "Tech"
   ]
 }
