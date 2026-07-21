@@ -1,6 +1,17 @@
 ## Resources
-
+****
 BitDynasty Guides: https://swgoh4.life/territory-battles/
+
+
+## nanten Instruction Strategy
+****
+**Phase 1**
+Have everyone deploy middle planet first until it gets 3 stars. Prohibit deployment to the right planet. Only platoons and missions for the right planet. After the middle planet has 3 stars, direct the guild to deploy everything to the left planet until it hits 3 stars. When the left planet has 3 stars, instruct the guild to preload the right planet. 
+
+**Phase 2**
+Have everyone start off by deploying to the right planet, which should be preloaded, until it hits 3 stars. Prohibit deployment to the left planet. Only platoons and missions for the left planet. After the right planet has 3 stars, direct the guild to deploy to the middle planet until it hits 3 stars. When the middle planet has 3 stars, instruct the guild to preload the left planet. 
+
+**Phase 3**
 
 
 ## Tier 1
@@ -143,13 +154,82 @@ All of these platoon characters must be **Relic 5.**
 ## Tier 2
 ****
 #### Platoons
-All of these platoon characters must be **Relic ?.**
+All of these platoon characters must be **Relic 6.**
 
 **Characters**
-
+- [ ] Aayla Secura
+- [ ] Admiral Ackbar
+- [ ] Asajj Ventress
+- [ ] B2 Super Battle Droid
+- [ ] Bastila Shan
+- [x] Ben Solo
+- [x] Boba Fett, Scion of Jango
+- [ ] BT-1
+- [ ] Cad Bane
+- [x] Chewbacca
+- [ ] Colonel Starck
+- [x] Commander Ahsoka Tano
+- [x] Count Dooku
+- [x] Darth Malak
+- [x] Darth Malgus
+- [x] Darth Revan
+- [ ] Darth Talon
+- [ ] Death Trooper
+- [ ] Dengar
+- [ ] Droideka
+- [ ] Embo
+- [x] Emperor Palpatine
+- [ ] First Order Officer
+- [x] General Grievous
+- [x] General Hux
+- [x] General Kenobi
+- [x] General Skywalker
+- [ ] General Veers
+- [x] Grand Admiral Thrawn
+- [x] Grand Inquisitor
+- [x] Han Solo
+- [ ] Hermit Yoda
+- [x] HK-47
+- [ ] Imperial Probe Droid
+- [ ] Jawa
+- [x] Jedi Knight Luke Skywalker
+- [x] Jedi Master Luke Skywalker
+- [ ] Ki-Adi Mundi
+- [ ] Kuiil
+- [x] Kylo Ren (Unmasked)
+- [ ] L3-37
+- [ ] Lando Calrissian
+- [ ] Logray
+- [x] Lord Vader
+- [ ] Maul
+- [ ] Rebel Officer Leia Organa
+- [x] Rey
+- [ ] Sana Starros
+- [x] Sith Eternal Emperor
+- [x] Sith Trooper
+- [ ] Snowtrooper
+- [x] Starkiller
+- [x] Supreme Leader Kylo Ren
+- [ ] The Mandalorian
+- [x] Threepio & Chewie
+- [x] Wat Tambor
 
 **Ships**
-
+- [x] Cassian's U-wing
+- [x] Chimaera
+- [x] Emperor's Shuttle
+- [x] Executor
+- [x] Executrix
+- [x] Hyena Bomber
+- [x] Malevolence
+- [x] Outrider
+- [x] Plo Koon's Jedi Starfighter
+- [x] Razor Crest
+- [x] Scimitar
+- [x] Scythe
+- [x] TIE Echelon
+- [x] TIE/IN Interceptor Prototype
+- [x] TIE Reaper
 
 
 ## Tier 3
