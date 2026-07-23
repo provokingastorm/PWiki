@@ -12,7 +12,7 @@ Have everyone deploy middle planet first until it gets 3 stars. Prohibit deploym
 Have everyone start off by deploying to the right planet, which should be preloaded, until it hits 3 stars. Prohibit deployment to the left planet. Only platoons and missions for the left planet. After the right planet has 3 stars, direct the guild to deploy to the middle planet until it hits 3 stars. When the middle planet has 3 stars, instruct the guild to preload the left planet. 
 
 **Phase 3**
-Direct the guild to finish off the 2nd planet on the left side. It should has some preloaded GP. Prevent the guild from deploying to the middle section. We prefer to stretch out that planet over two phases so that that guildmates have more opportunities to do the Reva and Mandalore special missions. After the left planet has 3 stars, have everyone deploy to the right planet until it has 3 stars. 
+Direct the guild to finish off the 2nd planet on the left side. It should has some preloaded GP. Prevent the guild from deploying to the middle section. We prefer to stretch out that planet over two phases so that that guildmates have more opportunities to do the Reva and Mandalore special missions. After the left planet has 3 stars, have everyone deploy to the right planet to preload it. 
 
 ## Tier 1
 ****
@@ -277,33 +277,52 @@ All of these platoon characters must be **Relic 6.**
 All of these platoon characters must be **Relic 7.**
 
 **Characters**
+ - [ ] 0-0-0
  - [ ] 50R-T
+ - [ ] Aurra Sing
  - [ ] B1 Battle Droid
  - [ ] Barriss Offee
  - [ ] Bastila Shan (Fallen)
- - [ ] Boba Fett, Scion of Jango
+ - [x] Boba Fett, Scion of Jango
  - [ ] Bohdi Rook
+ - [ ] Cad Bane
  - [ ] Cara Dune
  - [ ] Chirrut Imwe
  - [x] Commander Ahsoka Tano
  - [x] Corusant Underworld Police
+ - [ ] Dark Trooper
  - [x] Darth Malak
  - [x] Darth Malgus
+ - [x] Darth Maul
+ - [ ] Darth Treya
+ - [ ] Dengar
+ - [ ] Director Krennic
+ - [ ] Embo
  - [ ] Ewok Elder
  - [ ] Ewok Scout
+ - [ ] First Order SF TIE Pilot
+ - [ ] Gar Saxon
+ - [x] General Grievous
+ - [x] General Hux
  - [x] General Skywalker
  - [ ] Geonosian Spy
+ - [ ] Grand Admiral Thrawn
+ - [x] Grand Moff Tarkin
  - [ ] Hando Ohnaka
  - [x] HK-47
  - [ ] Hoth Rebel Scout
  - [ ] Hunter
+ - [ ] IG-88
+ - [ ] Imperial Probe Droid
  - [x] Jedi Knight Luke Skywalker
  - [x] Jedi Master Kenobi
  - [x] Jedi Master Luke Skywalker
  - [x] Kylo Ren (Unmasked)
+ - [x] Lord Vader
  - [ ] Luminara Unduli
  - [ ] Maul
  - [x] Mara Jade, The Emperor's Hand
+ - [ ] Mother Talzin
  - [ ] Nightsister Acolyte
  - [ ] Obi-Wan Kenobi (Old Ben)
  - [ ] Qui-Gon Jinn
@@ -311,22 +330,36 @@ All of these platoon characters must be **Relic 7.**
  - [ ] Resistance Hero Poe
  - [x] Rey
  - [ ] Rose Tico
+ - [ ] Savage Oppress
+ - [x] Seventh Sister
+ - [x] Sith Assassin
  - [x] Sith Eternal Emperor
+ - [x] Sith Trooper
  - [ ] Skiff Guard (Lando Calrissian)
  - [x] Starkiller
  - [x] Supreme Leader Kylo Ren
+ - [ ] Talia
  - [ ] Teebo
  - [ ] Tusken Chieftan
+ - [ ] Tusken Raider
+ - [x] Wat Tambor
  - [ ] Young Han Solo
 
 **Ships**
+  - [x] Chimaera
+  - [x] Emperor's Shuttle
   - [x] Finalizer
   - [x] First Order SF TIE Fighter
   - [x] Gauntlet Starfighter
+  - [x] Geonosian Soldier's Starfighter
+  - [x] Geonosian Spy's Starfighter
+  - [x] Hyena Bomber
   - [x] IG-2000
+  - [x] Imperial TIE Fighter
   - [x] Outrider
   - [x] Razor Crest
   - [x] Scythe
+  - [x] TIE Advanced x1
   - [x] TIE/IN Interceptor Prototype
   - [x] TIE Reaper
 

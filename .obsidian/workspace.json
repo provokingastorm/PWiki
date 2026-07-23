@@ -183,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5915e60fd2045336",
+  "active": "1d990e70d2539708",
   "lastOpenFiles": [
+    "Software Development/Game Development/HGE Development/Notes on Integrating ImGui in HGE.md",
+    "Software Development/Game Development/HGE Development",
     "Studying/Getting Familiar with Reading Material.md",
     "SWGOH/Territory Battles - Rise of the Empire.md",
     "Software Development/Game Development/Game Engines.md",
@@ -211,7 +213,6 @@
     "SWGOH/Character - Baze Malbus.md",
     "SWGOH/Character - Mon Mothma.md",
     "SWGOH/Character - R2-D2.md",
-    "SWGOH/Character - Leia Organa.md",
     "Laundry",
     "Studying",
     "House",
@@ -222,7 +223,6 @@
     "Cleaning/Images",
     "Cleaning/New folder",
     "Pets",
-    "Software Development",
-    "Tech"
+    "Software Development"
   ]
 }
